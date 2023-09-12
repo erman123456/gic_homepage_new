@@ -1,0 +1,23 @@
+.wrapperItem{
+    width:'100%';
+    position:absolute;
+    top:-50px;
+    left:0;
+    background-color: transparent;
+}
+.traderProblemContainer{
+    background-color: #25282B;
+    margin-top: 150px;
+}
+
+@media screen and (max-width:992px) {
+    .wrapperItem{
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+    .traderProblemContainer{
+        background-color: transparent;
+        margin-top: 100px;
+    }
+}

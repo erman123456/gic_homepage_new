@@ -1,0 +1,94 @@
+{
+  "name": "react-hooks-test",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://gic.rrrgho.com",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/free-regular-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.6.0",
+    "apexcharts": "^3.26.3",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "datatables.net": "^1.10.24",
+    "datatables.net-dt": "^1.10.24",
+    "express": "^4.17.1",
+    "i18next": "^20.3.1",
+    "i18next-browser-languagedetector": "^6.1.2",
+    "i18next-http-backend": "^1.2.6",
+    "mdbreact": "^4.6.1",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.4.3",
+    "react-detect-offline": "^2.4.4",
+    "react-dom": "^17.0.2",
+    "react-google-recaptcha": "^2.1.0",
+    "react-helmet": "^6.1.0",
+    "react-html-parser": "^2.0.2",
+    "react-i18next": "^11.11.0",
+    "react-loading-skeleton": "^2.2.0",
+    "react-phone-input-2": "^2.14.0",
+    "react-qr-code": "^1.0.5",
+    "react-redux": "^7.2.2",
+    "react-router-breadcrumbs-hoc": "^3.4.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-select": "^4.3.1",
+    "react-slick": "^0.28.1",
+    "react-tooltip": "^4.2.19",
+    "reactjs-localstorage": "^1.0.1",
+    "reactstrap": "^8.9.0",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "slick-carousel": "^1.8.1",
+    "socket.io": "^3.1.1",
+    "socket.io-client": "^4.0.1",
+    "sweetalert": "^2.1.2",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "dev:build-server": "NODE_ENV=development webpack --config webpack.server.js --mode=development -w",
+    "dev:start": "nodemon ./server-build/index.js",
+    "dev": "npm-run-all --parallel build dev:*",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.3",
+    "utf-8-validate": "^5.0.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-react": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "nodemon": "^2.0.4",
+    "npm-run-all": "^4.1.5",
+    "webpack-cli": "^3.3.12",
+    "webpack-node-externals": "^1.7.2"
+  }
+}

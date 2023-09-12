@@ -1,0 +1,9 @@
+.main-content-title{
+    font-size: 24px;
+}
+
+@media screen and (max-width:720px){
+    .main-content-title{
+        font-size: 20px;
+    }
+}

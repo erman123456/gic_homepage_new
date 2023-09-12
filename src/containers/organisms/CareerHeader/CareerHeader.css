@@ -1,0 +1,11 @@
+@media screen and (max-width:720){
+    .careerheader-container{
+        height: calc(100vh - 100px);
+    }
+}
+
+@media screen and (max-width: 992px){
+    .careerheader-container{
+        height: calc(100vh - 100px);
+    }
+}

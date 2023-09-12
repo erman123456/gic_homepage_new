@@ -1,0 +1,556 @@
+{
+    "global" : {
+        "see-video" : "Lihat Video",
+        "buy-gict" : "Buy GICT Coin",
+        "learn-more" : "Learn More",
+        "not-found" : {
+            "title" : "Halaman Tidak Ditemukan ",
+            "content" : "Maaf, halaman yang Anda tuju tidak ditemukan. Silahkan kembali ke Beranda.",
+            "link" : "Kembali ke Homepage"
+        },
+        "no-internet" : {
+            "title" : "Tidak Ada Koneksi Internet",
+            "content" : "Cek koneksi WiFi atau kuota internet Anda untuk mencoba lagi.",
+            "link" : "Coba Lagi"
+        }
+    },
+    "navbar" : {
+        "introduction" : {
+            "title" : "Introduction",
+            "submenu" : {
+                "about" : "About Us",
+                "gictcoin" : "GICT Coin" 
+            }
+        }
+    },
+    "footer" : {
+        "title" : "Semua layanan dalam satu ekosistem trading. Temukan Beragam Solusi Trading dalam 6 Produk GIC. Fitur GIC memungkinan siapa saja baik trader pemula atau trader profesional bisa meraih profit dengan mudah.",
+        "contact" : "Hubungi Kami",
+        "support" : "Dukungan",
+        "install" : "Unduh App"
+    },
+    "home-page" : {
+        "banner" : {
+            "title" : "Semua Layanan dalam Satu Ekosistem Trading",
+            "content" : "Temukan Beragam Solusi Trading dalam 6 Produk GIC"
+        },
+        "introduction" : {
+            "title" : "Siapa Kami?",
+            "content" : "GIC adalah ekosistem trading forex pertama di Indonesia dengan teknologi blockchain."
+        },
+        "product" : {
+            "title" : "Pilihan Produk",
+            "item1" : {
+                "title" : "GICTrade",
+                "content" : "Bebas memilih menjadi trader atau market maker. Bebas komisi & swap. Spread rendah."
+            },
+            "item2" : {
+                "title" : "GICSocial Trade",
+                "content" : "Profit dengan sistem copy trading. Anda bisa menjadi master atau follower."
+            },
+            "item3" : {
+                "title" : "GICAcademy",
+                "content" : "Wadah edukasi bagi trader pemula dan trader profesional untuk semakin mahir."
+            },
+            "item4" : {
+                "title" : "GICCare",
+                "content" : "GIC percaya bahwa setiap orang bisa memiliki kesempatan untuk sukses."
+            },
+            "item5" : {
+                "title" : "GICPartner",
+                "content" : "Dapatkan berbagai penawaran menarik untuk bekerja sama dengan GIC."
+            },
+            "item6" : {
+                "title" : "GICAfiliate",
+                "content" : "Ajak teman atau orang terdekat Anda untuk bergabung bersama GIC."
+            }
+        },
+        "choose-us" : {
+            "title" : "Mengapa Memilih Kami?",
+            "item1" : {
+                "highlightContent" : "Ragam Solusi. ",
+                "content" : "Memiliki 6 produk pilihan yang membuat trading Anda semakin aman dan nyaman."
+            },
+            "item2" : {
+                "highlightContent" : "Legal.",
+                "content" : "Semua transaksi dilaporkan ke Bursa Berjangka Jakarta (BBJ) dan Kliring Berjangka Indonesia (KBI). "
+            },
+            "item3" : {
+                "highlightContent" : "Aman dan Transparan. ",
+                "content" : "Menggunakan teknologi blockchain dengan GICT Coin."
+            }
+        },
+        "media-partner" : {
+            "title" : "Rekan Media"
+        },
+        "license" : {
+            "title" : "Mendapatkan izin dari",
+            "content" : "Semua transaksi dilaporkan ke Bursa Berjangka Jakarta (BBJ) dan Kliring Berjangka Indonesia (KBI)."
+        }
+    },
+    "introduction" : {
+        "about-page" : {
+            "greeting" : {
+                "title" : "GIC Membawa Inovasi untuk Para Trader",
+                "content" : "Berpengalaman lebih dari 20 tahun, GIC adalah perusahaan pertama dan satu-satunya di Indonesia yang menyediakan berbagai layanan produk dalam satu ekosistem trading. Mengandalkan teknologi blockchain dalam sistem Peer-to-Peer, GIC membawa perubahan besar dalam dunia trading. Semua transaksi dalam GIC menjadi lebih aman, transparan, rendah biaya, dan bebas konflik kepentingan."
+            },
+            "vission" : {
+                "title" : "Visi",
+                "content" : "Menjadi yang pertama dan terdepan dalam menyediakan berbagai layanan produk trading dalam satu ekosistem."
+            },
+            "mission" : {
+                "title" : "Misi",
+                "content" : "Mempertemukan broker dan trader seluruh Indonesia dalam ekosistem GIC."
+            },
+            "gic-value" : {
+                "fair" : {
+                    "title" : "Jujur dan Adil",
+                    "content" : "Sistem Peer-to-Peer GIC menciptakan ekosistem trading yang adil, aman, dan transparan."
+                },
+                "collaboration" : {
+                    "title" : "Kolaborasi",
+                    "content" : "GIC bekerja sama dengan Trijaya Pratama Futures dan Capital Megah Mandiri"
+                },
+                "legality" : {
+                    "title" : "Legalitas",
+                    "content" : "Semua transaksi dilaporkan ke Bursa Berjangka Jakarta (BBJ) dan Kliring Berjangka Indonesia (KBI)."
+                }
+            },
+            "the-executive" : {
+                "title" : "TIM GIC",
+                "content" : "Berpengalaman lebih dari 20 tahun dalam industri investasi dan berjangka."
+            },
+            "the-advisor" : {
+                "title" : "Penasehat Perusahaan"
+            }
+        },
+        "gictcoin-page" : {
+            "greeting" : {
+                "title" : "Membawa Solusi untuk Industri Trading Forex",
+                "content" : "GICT Coin adalah mata uang digital yang digunakan untuk bertransaksi dalam ekosistem GIC. Sama dengan mata uang kripto lainnya GICT Coin menggunakan teknologi blockchain"
+            },
+            "problems-solved" : {
+                "title" : "GICT Coin Solusi untuk Berbagai Masalah",
+                "trader-perspective" : {
+                    "title" : "Sisi Trader",
+                    "item1" : "Menghindari Praktik Ilegal",
+                    "item2" : "Transparan",
+                    "item3" : "Biaya Transaksi Tinggi"
+                },
+                "broker-perspective" : {
+                    "title" : "Sisi Broker",
+                    "item1" : "Regulasi Ketat",
+                    "item2" : "Modal Besar",
+                    "item3" : "Biaya Tinggi Operasional"
+                }
+            },
+            "coin-benefits" : {
+                "title" : "Keunggulan GICT Coin",
+                "item1" : "Bebas Swap",
+                "item2" : "Aman dan Transparan",
+                "item3" : "Bebas Komisi",
+                "item4" : "Spread Rendah"
+            },
+            "market-size" : {
+                "forex" : {
+                    "title" : "Nilai Transaksi Forex",
+                    "content" : "Total nilai trading forex di Indonesia mencapai 672 miliar dolar AS setiap tahun."
+                },
+                "crypto" : {
+                    "title" : "Nilai Mata Uang Kripto ",
+                    "content" : "Pada 2018 ada 1,5 juta trader kripto di Indonesia jumlahnya terus meningkat sampai sekarang."
+                }
+            }
+        }
+    },
+    "product" : {
+        "gictrade-page" : {
+            "header" : {
+                "title" : "What is GICTrade?",
+                "content" : "GICTrade is P2P forex trading platform while people can choose between traders or market makers."
+            },
+            "blog" : {
+                "item1" : {
+                    "title-highlight" : "Active Traders",
+                    "title-dark" : "Trader",
+                    "content" : "Trader is an individual who engages in the buying and selling of financial assets in any financial market, either for himself or on behalf of another person"
+                },
+                "item2" : {
+                    "title-highlight" : "Passive Traders",
+                    "title-dark" : "Market Maker",
+                    "content" : "Market maker is a dealer in securities or other assets who undertakes to buy or sell at specified prices at all times."
+                }
+            },
+            "gictrade-benfits" : {
+                "title1" : "GICTrade Benefit",
+                "subtitle1": "Active Traders",
+                "item1-1" : "Free Commission",
+                "item1-2" : "Free Swap",
+                "item1-3" : "Low Spread",
+                "item1-4" : "Transparent",
+                "subtitle2": "Pasive Traders",
+                "item2-1" : "Easy",
+                "item2-2" : "Full Control",
+                "item2-3" : "Minimum Deposit",
+                "item2-4" : "Instant Result"
+            }
+        },
+        "gictrade-page-version2" : {
+            "header" : {
+                "title" : "- P2P Platform Trading Forex Terpercaya",
+                "content" : "Berbeda dengan perusahaan pialang konvensional lainnya, GIC melalui platform GICTrade memberikan solusi bagi para trader yang tidak ingin dibebankan dengan tingginya biaya trading dengan transaksi yang adil, aman, dan transparan dengan teknologi blockchain. GICTrade adalah sebuah platform peer-to-peer trading yang mempertemukan trader dan market maker. Sebagai platform yang mempertemukan trader dan market maker, Anda sebagai calon nasabah tentu bisa memilih diantara keduanya, yaitu menjadi trader atau market maker."
+            },
+            "header2" : {
+                "title" : "Masalah dalam Industri Trading Forex",
+                "content" : "Trading forex sering dianggap sebagai judi dan broker forex adalah casinonya!",
+                "item1" : "1. Semakin sering trader melakukan trading, semakin banyak broker mendapatkan untung.",
+                "item2" : "2. Trader dan market maker selalu berlawanan. Jika trader profit, maka market maker rugi dan begitu juga sebaliknya."
+            },
+            "game-changer" : {
+                "title" : "The Game Changer",
+                "content" : "Peran GICTrade sebagai penyedia tempat transaksi bisa meminimalisir biaya dan membantu memaksimalkan profit untuk para trader dan market maker serta menciptakan suasana transaksi dan hasil yang adil. Trader akan diuntungkan dengan tidak adanya biaya komisi dan biaya swap serta spread yang rendah karena adanya market maker sebagai penyedia likuiditas."
+            },
+            "trader-problem" : {
+                "item1" : {
+                    "title" : "Biaya Tinggi",
+                    "content" : "Pada perusahaan pialang konvensional, tingginya biaya trading membuat trader sulit untuk meraih profit dan lebih sering merugi."
+                },
+                "item2" : {
+                    "title" : "Tidak Transparan",
+                    "content" : "Pencatatan transaksi yang bersifat sentral dan hanya dimiliki oleh satu pihak, membuat transparansi sulit diwujudkan."
+                },
+                "item3" : {
+                    "title" : "Sulit Menjadi Market Maker",
+                    "content" : "Market maker sebagai pelengkap transaksi tidak bisa dilakukan oleh individu, diperuntukkan hanya untuk institusi keuangan besar seperti bank dan hedge fund."
+                }
+            },
+            "the-benefit" : {
+                "title" : "Keuntungan Trading di GICTrade",
+                "content" : "Sistem Peer-to-Peer berbasis teknologi blockchain membuat transaksi dalam GICTrade aman, transparan, adil, dan rendah biaya",
+                "item1" : "1. Bebas Biaya Komisi ",
+                "item2" : "2. Bebas Swap",
+                "item3" : "3. Spread Rendah",
+                "item4" : "4. Bisa Menjadi Market Maker dengan minimum deposit 5000 GICT Coin",
+                "item5" : "5. Bebas Konflik Kepentingan"
+            }
+        },
+        "socialtrade-page" : {
+            "header" : {
+                "title" : "GICSocial Trade",
+                "content" : "Memberikan kemudahan profit bagi trader pemula dan menghasilkan pendapatan tambahan untuk trader ahli berpengalaman dengan mempertemukan mereka di GICSocial Trade sebagai master dan follower."
+            },
+            "blog" : {
+                "item1" : {
+                    "title-highlight" : "Master",
+                    "title-dark" : "",
+                    "content" : "Anda expert trader berpengalaman? Dapatkan penghasilan tambahan selain dari profit trading dengan menjadi master. Setiap tindakan Anda di dalam trading akan diikuti oleh para trader lainnya yang menjadi follower. Semakin banyak follower, semakin banyak pendapatan yang Anda hasilkan. Mudah bukan?"
+                },
+                "item2" : {
+                    "title-highlight" : "Followers",
+                    "title-dark" : "",
+                    "content" : "Sebagai trader Anda bisa menjadi follower yang bisa mengikuti tindakan para master di dalam trading, baik melalui copy trade atau reverse trade. Fitur ini memberikan keuntungan bagi trader pemula atau bagi trader yang kurang percaya diri dalam mengambil keputusan namun ingin tetap profit."
+                }
+            },
+            "socialtrade-benefits" : {
+                "title" : "Keuntungan Social Trade",
+                "item1" : "Tidak Ada Batasan Broker ",
+                "item2" : "Bisa Digunakan di MT4 & MT5",
+                "item3" : "Dapat diakses dimana saja",
+                "item4" : "Menggunakan Teknologi Terkini"
+            }
+        },
+        "gicaffiliate-page" : {
+            "header" : {
+                "title" : "GICAffiliate atau Introducing Brokers ",
+                "content" : "Tidak hanya trading forex yang bisa menghasilkan profit. Dapatkan penghasilan tambahan dengan 3 cara mudah.   "
+            },
+            "massive-reward" : {
+                "title" : "3 Langkah Mudah Dapatkan Bonus Melimpah",
+                "item1" : "Dapatkan link GICAffiliate",
+                "item2" : "Undang teman Anda",
+                "item3" : "Nikmati bonus Anda",
+                "detail1" : {
+                    "title" : "Pelajari Lebih Lanjut",
+                    "content" : "Unduh file di bawah ini untuk mengetahui informasi lebih lanjut tentang GICAffiliate"
+                },
+                "detail2" : {
+                    "title" : "Satu Langkah Mudah",
+                    "content" : "Jika ada pertanyaan mengenai cara menjadi GICAffiliate, Anda bisa menghubungi +62-817-0095-888 atau kirim formulir Anda."
+                }
+            }
+        }
+    },
+    "register-page" : {
+        "title" : "Sign Up GIC Forex Trading Ecosystem",
+        "email" : "Email Address",
+        "phone" : "Phone Number",
+        "password" : "Password",
+        "referral" : "Referral",
+        "button" : "Register",
+        "already" : "Already have an account?",
+        "login" : "Login"
+    },
+    "login-page" : {
+        "email" : "Email Address",
+        "password" : "Password",
+        "button": "Login",
+        "donthave" : "Don't have an account?",
+        "create" : "Create Account"
+    },
+    "legacy" : {
+        "terms-page" : {
+            "header" : {
+                "title" : "Syarat dan Ketentuan untuk pasar online"
+            },
+            "item1" : {
+                "title" : "Persyaratan Layanan",
+                "content" : "Ketentuan Layanan ini merupakan perjanjian yang mengikat antara Anda dan Global Investa Capital Pte. Ltd., sebuah perseroan terbatas yang terdaftar di Singapura dengan Nomor Entitas Unik 201806666Z (“GIC,” atau “Kami”). Syarat dan ketentuan yang ditetapkan di sini (\"Persyaratan Layanan\") berlaku untuk dan mengatur akses Anda ke dan penggunaan Platform GIC (terdiri dari semua halaman web yang terletak di gicindonesia.com) (\"Platform GIC\") dan layanan yang ditawarkan GIC sehubungan dengan itu (masing-masing, \"Layanan\" dan secara kolektif, \"Layanan\"), dan informasi, teks, grafik, foto, atau materi lain yang diunggah, diunduh, atau muncul di Platform GIC atau sehubungan dengan ketentuan kami tentang Layanan (secara kolektif disebut sebagai \"Konten\"). Akses Anda ke dan penggunaan Layanan menandakan penerimaan Anda terhadap Ketentuan Layanan ini dan perjanjian untuk terikat olehnya dan setiap dan semua ketentuan lain yang berlaku yang dirujuk di sini secara mutlak. ",
+                "highlight" : "JIKA ANDA TIDAK MENERIMA BAGIAN APA PUN DARI PERSYARATAN LAYANAN INI, MOHON SEGERA HENTIKAN AKSES DAN PENGGUNAAN GIC PLATFORM DAN SEMUA LAYANAN."         
+            },
+            "item2" : {
+                "title" : "Interpretasi",
+                "content" : "Judul klausul tidak memengaruhi interpretasi Persyaratan Layanan ini. Kecuali jika konteksnya menentukan lain, kata-kata dalam bentuk tunggal menyertakan versi jamak dan kata-kata dalam bentuk jamak menyertakan versi tunggal. Kata apa pun yang mengikuti istilah \"termasuk\", \"secara khusus\", \"misalnya\", atau ekspresi yang serupa harus ditafsirkan sebagai ilustrasi dan tidak membatasi arti kata, deskripsi, definisi, frasa, atau istilah sebelum istilah tersebut.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item3" : {
+                "title" : "Perubahan Persyaratan Layanan",
+                "content" : "Kami dapat mengubah Ketentuan Layanan dari waktu ke waktu atas kebijakan kami sendiri tanpa berkewajiban untuk memberi tahu Anda sebelumnya. Merupakan tanggung jawab Anda untuk memeriksa halaman ini secara berkala untuk mengetahui perubahan pada Ketentuan Layanan ini. Dengan terus menggunakan Layanan setelah amandemen Persyaratan Layanan tersebut, Anda setuju untuk terikat oleh amandemen tersebut.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item4" : {
+                "title" : "Perubahan Layanan",
+                "content" : "Layanan yang kami berikan selalu berkembang. Bentuk dan sifat Layanan yang kami sediakan dapat berubah dari waktu ke waktu tanpa pemberitahuan sebelumnya kepada Anda. Selain itu, kami dapat berhenti (secara permanen atau sementara) menyediakan Layanan (atau fitur apa pun dalam Layanan) kepada Anda secara khusus atau kepada pengguna secara umum tanpa pemberitahuan sebelumnya. Kami juga memiliki hak untuk membuat batasan pada akses Anda ke atau penggunaan Layanan atas kebijakan kami sendiri kapan saja dan tanpa pemberitahuan sebelumnya kepada Anda. Kami tidak membuat pernyataan, jaminan, atau jaminan, baik tersurat maupun tersirat, bahwa Layanan kami atau Konten apa pun di Platform GIC akurat, lengkap, sepenuhnya bebas dari kesalahan, atau mutakhir, dan tidak bertanggung jawab atas kesalahan atau ketidaksesuaian dalam Layanan atau Konten.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item5" : {
+                "title" : "Informasi Dan Keamanan Akun",
+                "content" : "Untuk mengakses dan menggunakan Platform GIC, Layanan, atau Konten, Anda mungkin perlu membuat akun yang dilindungi kata sandi. Kami dapat meminta Anda untuk memberikan kami informasi pribadi tertentu untuk membuka akun Anda atau selama Anda menggunakan Platform GIC atau Layanan secara umum. Anda bertanggung jawab untuk menjaga keamanan akun Anda. Kami menyarankan Anda untuk tidak membagikan detail akun atau kata sandi Anda kepada orang lain. Anda sepenuhnya bertanggung jawab atas aktivitas apa pun di akun Anda, baik diotorisasi atau dilakukan oleh Anda atau tidak, termasuk pembelian yang dilakukan dengan menggunakan instrumen pembayaran apa pun. Harap beri tahu kami segera jika ada kehilangan, pencurian, penipuan, atau penggunaan akun atau kata sandi Anda tanpa izin. Anda setuju bahwa Anda akan memberi kami informasi yang akurat, lengkap, benar, dan diperbarui dan segera memperbarui kami jika terjadi perubahan pada informasi yang sebelumnya Anda berikan kepada kami. Kami akan sepenuhnya mematuhi Undang-Undang Perlindungan Data Pribadi 2012 tentang semua informasi pribadi yang Anda berikan kepada kami.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item6" : {
+                "title" : "mengakses GIC Plartform Dan Layanan",
+                "content" : "Anda bertanggung jawab untuk memastikan bahwa Anda sah untuk mengakses dan menggunakan Platform GIC dan Layanan, dan bahwa Anda melakukannya dengan sepenuhnya mematuhi semua hukum dan peraturan yang berlaku. Kami berhak setiap saat (tetapi tidak berkewajiban) untuk menolak perintah apa pun untuk menggabungkan, menangguhkan, atau menghentikan penggunaan atau akses Anda ke Platform GIC atau Layanan atas kebijakan kami, dan tanpa kewajiban atau kewajiban apa pun kepada Anda. Kami juga berhak untuk mengakses, membaca, menyimpan, dan mengungkapkan informasi apa pun yang kami yakini secara wajar diperlukan untuk (i) memenuhi hukum, peraturan, proses hukum, atau permintaan pemerintah yang berlaku; (ii) menegakkan Persyaratan Layanan ini, termasuk penyelidikan potensi pelanggaran di sini; (iii) mendeteksi, mencegah, atau menangani masalah penipuan, keamanan, atau teknis; (iv) menanggapi permintaan dukungan pengguna; atau (v) melindungi hak, properti, atau keamanan GIC, penggunanya, dan publik. Kami tidak menjamin bahwa Platform GIC, Layanan, atau Konten apa pun akan selalu tersedia tanpa gangguan. Kami dapat menangguhkan, menarik, menghentikan, atau mengubah semua atau sebagian dari Platform GIC, Layanan, atau Konten apa pun, atau akses ke hal yang sama, tanpa memberi Anda pemberitahuan sebelumnya. Kami tidak akan bertanggung jawab kepada Anda jika, karena alasan apa pun, Platform GIC, Layanan, atau Konten apa pun tidak tersedia untuk jangka waktu tertentu.Saat mengakses atau menggunakan Platform GIC, Layanan, atau Konten apa pun, Anda tidak boleh:",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES.",
+                "a" : "mengakses atau menggunakan hal yang sama dengan cara apa pun yang melanggar hukum, ilegal, curang, atau berbahaya, atau sehubungan dengan tujuan atau aktivitas yang melanggar hukum, ilegal, curang, atau berbahaya, atau untuk tujuan komersial yang tidak diizinkan",
+                "b" : "mengakses, merusak, atau menggunakan area non-publik dari Layanan atau Platform GIC",
+                "c" : "menyelidiki, memindai, atau menguji kerentanan sistem atau jaringan atau pelanggaran, atau menghindari tindakan keamanan atau otentikasi",
+                "d" : "mengakses atau mencari Layanan dengan cara apa pun (otomatis atau sebaliknya, termasuk dengan melakukan scraping, menggunakan bot, atau dengan menambang data) selain melalui antarmuka GIC yang saat ini tersedia dan dipublikasikan yang disediakan oleh GIC",
+                "e" : "mengakses atau menggunakan area yang dilindungi kata sandi, aman, atau non-publik dari Platform GIC, atau mengakses data pada Platform GIC yang tidak ditujukan untuk Anda, kecuali sebagaimana secara khusus diizinkan secara tertulis oleh GIC",
+                "f" : "menggunakan Platform GIC atau Layanan dengan cara apa pun untuk mengirimkan informasi identitas sumber yang diubah, menipu, atau salah",
+                "g" : "mengganggu atau mengganggu (atau mencoba melakukannya) akses pengguna, host, atau jaringan mana pun, termasuk, namun tidak terbatas pada, mengirim virus, Trojan, worm, logic bomb, atau materi berbahaya atau berbahaya secara teknologi lainnya; overloading, flooding, spamming, mail-bombing Platform GIC; atau membuat skrip pembuatan Konten sedemikian rupa untuk mengganggu atau membuat beban yang tidak semestinya pada Platform GIC",
+                "h" : "mengubah atau memodifikasi Platform GIC atau Konten, atau membuat reproduksi elektronik, adaptasi, distribusi, kinerja, atau tampilan Platform GIC atau Konten (atau bagiannya)",
+                "i" : "menghapus atau mengubah pemberitahuan atau label kepemilikan apa pun pada Platform GIC, atau menggunakan merek dagang GIC apa pun sebagai meta-tag di situs web atau aplikasi lain",
+                "j" : "menyalin, memodifikasi, menghapus, atau merusak informasi apa pun yang terdapat pada server komputer yang digunakan atau dikendalikan oleh Platform GIC",
+                "k" : "menggunakan Platform GIC untuk melanggar hak hukum pihak ketiga mana pun atau untuk mengambil tindakan apa pun yang melecehkan, memfitnah, memfitnah, kasar, menyiksa, mengancam, berbahaya, atau tidak menyenangkan; dan",
+                "l" : "meniru atau menggambarkan secara keliru afiliasi Anda dengan orang atau entitas mana pun di GIC atau selama menggunakan Platform atau Layanan GIC",
+                "next-content" : "Upaya untuk melakukan tindakan terlarang di atas juga tidak diizinkan. GIC akan melaporkan pelanggaran tersebut kepada otoritas penegak hukum yang relevan dan akan bekerja sama sepenuhnya dengan mereka dalam menangani pelanggaran tersebut. Ini mungkin termasuk mengungkapkan identitas Anda kepada mereka. Jika terjadi pelanggaran seperti itu, hak Anda untuk menggunakan akses dan menggunakan Platform GIC dan Layanan akan segera dihentikan."
+            },
+            "item7" : {
+                "title" : "Penggunaan Atas Nama Orang Lain",
+                "content" : "Jika Anda mengakses atau menggunakan Platform GIC atau Layanan, atau secara tegas menyetujui Ketentuan Layanan ini, atas nama individu atau badan hukum lain, Anda dianggap telah diwakili oleh perilaku Anda kepada GIC bahwa Anda diberi wewenang untuk melakukannya. nama orang lain. Baik Anda sendiri maupun orang yang Anda wakili akan dianggap telah menyetujui dan terikat oleh Persyaratan Layanan ini, dan semua referensi untuk \"Anda\" dalam Persyaratan Layanan ini adalah untuk diri Anda sendiri dan orang yang Anda wakili, kecuali konteksnya mengharuskan sebaliknya .",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item8" : {
+                "title" : "Hak Kekayaan Intelektual",
+                "content" : "Di antara Anda dan kami, kami memiliki dan mempertahankan semua hak kepemilikan di Platform GIC dan Layanan. Platform GIC berisi konten dan informasi kepemilikan GIC (dan, jika sesuai, pihak ketiga dan pihak terafiliasi serta pemberi lisensi GIC) yang dilindungi oleh undang-undang hak cipta dan kekayaan intelektual lainnya. Tidak ada apa pun di sini yang dapat ditafsirkan sebagai pemberian lisensi atau hak apa pun untuk menggunakan Layanan atau Platform GIC kecuali sebagaimana yang secara tegas disediakan di sini. Merek dagang, merek layanan, nama dagang, dan logo yang digunakan dan ditampilkan di Platform GIC (\"Merek Dagang\") adalah merek dagang terdaftar dan tidak terdaftar dari GIC, afiliasinya, atau pihak ketiga. Tidak ada apa pun di Platform GIC atau dalam Ketentuan Layanan ini yang dapat ditafsirkan sebagai pemberian, dengan implikasi, estoppel, atau sebaliknya, lisensi atau hak apa pun untuk menggunakan Merek Dagang apa pun tanpa izin tertulis dari kami atau pemilik merek dagang lain yang berlaku. ",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item9" : {
+                "title" : "Penafian Jaminan",
+                "content" : "Akses Anda ke dan penggunaan Platform GIC atau Layanan adalah risiko Anda sendiri. Platform GIC dan semua Layanan yang disediakan di atasnya oleh GIC disediakan atas dasar \"sebagaimana adanya\" dan \"sebagaimana tersedia\". GIC tidak membuat representasi atau jaminan dalam bentuk apa pun, tersurat maupun tersirat, termasuk, tanpa batasan, jaminan apa pun yang dapat diperjualbelikan, kepemilikan, kesesuaian untuk tujuan tertentu, non-pelanggaran, dan jaminan apa pun yang timbul karena transaksi atau kebiasaan perdagangan. Semua jaminan lain yang berkaitan dengan kesesuaian untuk tujuan, kualitas, atau kondisi Platform GIC atau Layanan yang tersirat oleh undang-undang atau hukum umum dikecualikan sejauh diizinkan oleh hukum. Produk, layanan, atau konten di Platform GIC dapat berasal dari pihak ketiga. GIC tidak mendukung, menjamin, atau menjamin produk, layanan, atau konten tersebut, dan tidak dan tidak akan dianggap sebagai pihak dalam transaksi apa pun antara Anda dan pihak ketiga mana pun.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item10" : {
+                "title" : "Batasan Kewajiban",
+                "content" : "Tanpa membatasi keumuman ketentuan di atas, dalam hal apa pun GIC atau afiliasinya, karyawan, direktur, pejabat, atau agennya tidak bertanggung jawab kepada Anda atau orang lain atas kerugian langsung, tidak langsung, insidental, khusus, hukuman, atau konsekuensial. atau kerusakan, baik yang timbul dalam kontrak, ekuitas, wanprestasi, atau lainnya (termasuk pelanggaran jaminan, kelalaian, dan tanggung jawab yang ketat dalam tort). Kerugian atau kerusakan tersebut termasuk, tanpa batasan, kerusakan yang timbul dari penundaan, kehilangan niat baik, kehilangan atau kerusakan data, gangguan penggunaan atau ketersediaan data, kehilangan penggunaan uang atau penggunaan produk, kehilangan keuntungan, pendapatan atau tabungan ( aktual atau diantisipasi), atau kerugian ekonomi lainnya yang terjadi dari atau sehubungan dengan Platform GIC atau Layanan, bahkan jika GIC atau afiliasi atau pemasoknya telah diberitahu tentang kemungkinan kerusakan tersebut. Anda mengakui dan setuju bahwa Anda akan menjalankan dan hanya mengandalkan keterampilan dan penilaian Anda sendiri dalam mengakses dan menggunakan Platform GIC dan Layanan, dan bahwa Anda bertanggung jawab untuk memastikan bahwa penggunaan Anda atas informasi, produk, atau Layanan sesuai dengan semua yang berlaku. persyaratan resmi.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item11" : {
+                "title" : "Ganti Rugi",
+                "content" : "Anda setuju untuk sepenuhnya mengganti kerugian dan membebaskan GIC, orang tua, anak perusahaan, dan afiliasinya, dan direktur, pejabat, mitra, karyawan, dan agennya masing-masing (secara kolektif, \"Pihak yang Diberi Ganti Rugi\") dari dan terhadap semua klaim, kerusakan, dan kerugian (termasuk kerugian langsung, tidak langsung, atau konsekuensial, serta biaya dan pengeluaran hukum dan profesional lainnya) yang diderita atau ditimbulkan oleh Pihak yang Diberi Ganti Rugi sehubungan dengan klaim yang timbul dari atau sehubungan dengan penggunaan Anda atas Platform GIC atau Layanan . Anda setuju bahwa GIC dapat, jika ingin, berpartisipasi dalam atau mengambil kendali eksklusif atas pembelaan klaim atau tindakan apa pun, atau negosiasi penyelesaian apa pun, dengan biayanya sendiri. GIC akan memberi tahu Anda dalam salah satu acara tersebut. Tidak ada penyelesaian yang dapat berdampak buruk pada hak atau kewajiban GIC harus dilakukan tanpa persetujuan tertulis sebelumnya dari GIC, yang dapat ditahan asalkan pemotongan tersebut dilakukan secara tidak wajar.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item12" : {
+                "title" : "Menghubungkan Ke Platform GIC",
+                "content" : "Anda dapat menautkan ke Platform GIC asalkan Anda melakukannya dengan cara yang sah, tidak merusak atau memanfaatkan reputasi kami, atau salah menggambarkan sifat hubungan antara Anda dan kami. Secara khusus, Anda tidak boleh membuat tautan sedemikian rupa untuk menyarankan segala bentuk asosiasi, persetujuan, jaminan, atau dukungan dari pihak kami jika tidak ada. Anda tidak boleh membuat tautan ke Layanan kami di situs web mana pun yang bukan milik Anda. Kami berhak untuk menarik izin penautan tanpa pemberitahuan sebelumnya. ",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item13" : {
+                "title" : "Tautan dan Sumber Pihak Ketiga di GIC Platform",
+                "content" : "Tautan pada Platform GIC dapat membawa Anda ke situs atau layanan eksternal yang tidak dimiliki oleh, di bawah kendali, atau berafiliasi dengan GIC. Kecuali jika sebaliknya secara tegas dinyatakan di Platform GIC, GIC tidak mendukung atau membuat pernyataan apa pun tentang situs atau layanan ini. Anda mengetahui dan menyetujui bahwa GIC tidak bertanggung jawab atas keakuratan atau ketersediaan informasi pada, atau keamanan, situs tersebut, serta atas kerugian atau kerusakan yang mungkin Anda alami akibat mengakses situs atau layanan tersebut. Anda mengakses, mengunjungi, atau menggunakan situs atau layanan eksternal yang mana Platform GIC ditautkan sepenuhnya dengan risiko Anda sendiri.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item14" : {
+                "title" : "Ketepatan",
+                "content" : "Jika ada ketentuan dari Persyaratan Layanan ini yang ditemukan tidak valid, batal, atau tidak dapat dilaksanakan, ketentuan tersebut akan diubah atau dibaca sejauh yang diperlukan untuk menghindari hasil tersebut. Jika ketentuan tidak dapat diubah atau dibaca sejauh itu, itu akan dihentikan tanpa mempengaruhi validitas dan keberlakuan sisa dari Ketentuan Layanan ini. ",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item15" : {
+                "title" : "Pembebasan",
+                "content" : "Tidak ada kegagalan atau penundaan oleh salah satu pihak untuk menggunakan hak atau upaya hukum yang diberikan berdasarkan Ketentuan Layanan ini atau oleh hukum yang akan dianggap sebagai pengabaian atas hak tersebut atau hak atau upaya hukum lainnya, juga tidak akan mencegah atau membatasi pelaksanaan lebih lanjut dari itu atau hak lainnya. atau memperbaiki. Tidak ada pelaksanaan tunggal atau sebagian dari hak atau upaya hukum tersebut yang akan mencegah atau membatasi pelaksanaan lebih lanjut dari hak tersebut atau hak atau upaya hukum lainnya.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item16" : {
+                "title" : "Penghentian",
+                "content" : "Ketentuan Layanan ini akan terus berlaku hingga diakhiri oleh Anda atau kami dalam salah satu keadaan berikut.",
+                "highlight" : "Dalam semua kasus tersebut, ketentuan apa pun dari Ketentuan Layanan ini yang secara tersurat atau tersirat dimaksudkan untuk mulai berlaku atau terus berlaku pada atau setelah penghentian Ketentuan Layanan ini akan tetap berlaku dan memiliki kekuatan hukum penuh.",
+                "a" : "Anda dapat mengakhiri perjanjian Anda dengan kami kapan saja dengan alasan apa pun dengan menonaktifkan akun pengguna Anda dan menghentikan penggunaan Layanan. Anda tidak perlu memberi tahu kami secara khusus ketika Anda berhenti menggunakan Layanan. Jika penonaktifan dan penghentian tersebut memengaruhi penggunaan Anda atas layanan atau produk pihak ketiga, penggunaan atau akses Anda yang berkelanjutan ke layanan atau produk tersebut akan bergantung pada ketentuan penggunaan pihak ketiga tersebut",
+                "b" : "Kami dapat menangguhkan atau menghentikan akun pengguna Anda, atau berhenti mengizinkan Anda mengakses Platform GIC atau Layanan kapan saja dengan alasan apa pun, termasuk jika kami memiliki alasan untuk meyakini bahwa: (i) Anda telah melanggar Ketentuan Layanan ini atau (ii) Anda menciptakan risiko atau kemungkinan eksposur hukum bagi kami; atau (iii) penyediaan Layanan kami kepada Anda tidak lagi memungkinkan secara komersial. Jika terjadi salah satu hal di atas, kami akan melakukan upaya yang wajar untuk memberi tahu Anda melalui alamat email yang terkait dengan akun pengguna Anda atau saat Anda mencoba mengakses akun pengguna Anda lagi"         
+            },
+            "item17" : {
+                "title" : "Hukum yang Mengatur dan Yurisdiksi",
+                "content" : "Persyaratan Layanan ini diatur oleh, dan akan ditafsirkan sesuai dengan, hukum Republik Singapura. Anda setuju untuk menyerahkan semua sengketa yang timbul dari atau sehubungan dengan Ketentuan Layanan ini ke yurisdiksi eksklusif pengadilan Singapura.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item18" : {
+                "title" : "Bahasa",
+                "content" : "Jika ada perbedaan antara versi bahasa Inggris dan versi bahasa lain dari Ketentuan Layanan ini dan konten Platform GIC, versi bahasa Inggris yang akan berlaku. ",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            }
+        },
+        "privacy-police-page" : {
+            "header" : {
+                "title" : "Kebijakan Privasi",
+                "content" : "Global Investa Capital (GIC) mengumpulkan sejumlah Data Pribadi Penggunanya"
+            },
+            "item1" : {
+                "title" : "a). Pengontrol dan Pemilik Data",
+                "content" : "PT. Global Investa Capital – Centennial Tower Level 29, Jalan Jenderal Gatot Subroto No. 27, Karet Semanggi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, 12950 Email kontak pemilik: support@gictrade.io"
+            },
+            "item2" : {
+                "title" : "b). Tipe Data yang Dikumpulkan",
+                "content" : "Tipe Data Pribadi yang dikumpulkan GIC, oleh GIC sendiri atau melalui pihak ketiga, antara lain: Cookies, data penggunaan, alamat email, nama depan, nama belakang, nomor telepon, alamat, jenis kelamin, tanggal lahir, negara, dan kode pos. <br/> Data Pribadi lainnya yang dikumpulkan dapat disebutkan di dalam sejumlah bagian lain di kebijakan privasi ini atau oleh teks penjelasan khusus secara kontekstual dengan pengumpulan Data tersebut.<br/> Data Pribadi dapat diberikan dengan bebas oleh Pengguna itu sendiri atau dikumpulkan secara otomatis saat menggunakan GIC. Penggunaan Cookies -atau alat pelacakan lainnya- oleh GIC atau pemilik layanan pihak ketiga yang digunakan GIC, kecuali disebutkan penjelasan lainnya, dimaksudkan untuk mengenali Pengguna dan mengingat preferensinya, dengan tujuan hanya untuk memberikan layanan yang dibutuhkan oleh Pengguna. Tidak diberikannya Data Pribadi tertentu dapat menyebabkan GIC tidak dapat menyediakan layanan.<br/> Pengguna bertanggung jawab atas Data Pribadi pihak ketiga yang didapatkan, diterbitkan, atau dibagi melalui GIC dan mengonfirmasikan bahwa Pengguna memiliki izin dari pihak ketiga untuk menyediakan data tersebut kepada Pemilik.  "
+            },
+            "item3" : {
+                "title" : "c). Cara dan Tempat Pemrosesan Data",
+                "content" : "<b>Metode Pemrosesan</b><br/> Pengontrol Data memproses Data Pengguna dengan cara yang layak dan akan melaksanakan langkah perlindungan yang diperlukan untuk mencegah akses, pengungkapan, perubahan, atau perusakan tanpa izin atas Data tersebut.<br/> Pemrosesan Data dilakukan menggunakan komputer atau perangkat IT sesuai dengan prosedur organisasi dan cara-cara yang sepenuhnya terkait dengan tujuan yang disebutkan. Selain Pengontrol Data, terkadang Data tersebut dapat diakses oleh sejumlah orang atau pihak yang bertugas terkait dengan operasional situs (administrasi, penjualan, pemasaran, hukum, administrasi sistem) atau pihak eksternal (misalnya penyedia layanan teknis pihak ketiga, kurir atau pos, penyedia hosting, perusahaan IT, perusahaan komunikasi) yang ditunjuk, jika diperlukan, sebagai Pemroses Data oleh Pemilik. Daftar terkini pihak-pihak tersebut dapat diminta kepada Pengontrol Data kapan saja.<br/><br/> <b>Tempat </b><br/> Data diproses di kantor operasi Pemilik dan di tempat lain di mana para pihak yang terlibat dalam pemrosesan berada. Bergantung pada lokasi Pengguna, transfer data mungkin melibatkan transfer Data Pengguna ke negara selain milik mereka. Untuk mengetahui lebih lanjut tentang tempat pemrosesan Data yang ditransfer tersebut, Pengguna dapat memeriksa bagian yang berisi perincian tentang pemrosesan Data Pribadi. Jika terjadi transfer seperti itu, Pengguna dapat mengetahui lebih lanjut dengan memeriksa bagian yang relevan dari dokumen ini atau menanyakan kepada Pemilik menggunakan informasi yang disediakan di bagian kontak.<br/><br/> <b>Waktu penyimpanan</b><br/> Data disimpan selama waktu yang diperlukan untuk menyediakan layanan yang diminta Pengguna, atau disebutkan oleh tujuan yang dijelaskan dalam dokumen ini. Pengguna dapat meminta Pengontrol Data untuk menangguhkan atau menghapus data tersebut kapan saja. "
+            },
+            "item4" : {
+                "title" : "d). Penggunaan Data yang dikumpulkan",
+                "content" : "Data tentang Pengguna dikumpulkan agar Pemilik dapat menyediakan layanannya dan juga untuk tujuan berikut: Analitis, Interaksi dengan platform live chat, Remarketing dan Penargetan Perilaku, Menghubungi Pengguna, Mengelola kontak dan mengirimkan pesan, dan Menangani pembayaran. <br/> Data Pribadi yang digunakan untuk masing-masing tujuan dijabarkan dalam sejumlah bagian spesifik dalam dokumen ini."
+            },
+            "item5" : {
+                "title" : "e). Informasi Terperinci tentang pemrosesan Data Pribadi",
+                "content" : "Data Pribadi dikumpulkan untuk sejumlah tujuan berikut dan menggunakan layanan berikut: <br/> <b>Analitis</b><br/> Layanan yang dimuat dalam bagian ini memungkinkan Pemilik untuk memantau dan menganalisis lalu lintas web dan dapat digunakan untuk melacak perilaku Pengguna.<br/><br/> <b>Google AdWords conversion tracking (Google Inc.)</b><br/> Google AdWords conversion tracking adalah layanan analitis yang disediakan oleh Google Inc. yang menghubungkan data dari jaringan periklanan Google Adwords dengan tindakan yang dilaksanakan di GIC. Data Pribadi yang dikumpulkan: Cookies dan data Penggunaan. Tempat pemrosesan: Amerika Serikat - Kebijakan Privasi<br/><br/> <b>Google Analytics (Google Inc.)</b><br/> Google Analytics adalah layanan analisis web yang disediakan oleh Google Inc. (\"Google\"). Google menggunakan Data yang dikumpulkan untuk melacak dan mempelajari penggunaan GIC, membuat laporan tentang aktivitasnya, dan membaginya dengan layanan Google lainnya. Google dapat menggunakan Data yang terkumpul memahami secara kontekstual dan mempersonalisasikan iklan dari jaringan periklanannya sendiri. Data Pribadi yang dikumpulkan: Cookies dan data Penggunaan. Tempat pemrosesan: Amerika Serikat - Kebijakan Privasi - Tolak<br/><br/> <b>Google Tag Manager (Google Inc.)</b> Google Tag Manager adalah layanan analitis yang disediakan oleh Google Inc. Data Pribadi yang dikumpulkan: Cookies dan data Penggunaan. Tempat pemrosesan: Amerika Serikat - Kebijakan Privasi<br/><br/> <b>Facebook Ads conversion tracking (Facebook, Inc.)</b><br/> Facebook Ads conversion tracking adalah layanan analitis yang disediakan oleh Facebook Inc. yang menghubungkan data dari jaringan periklanan Facebook dengan tindakan yang dilaksanakan di GIC. Data Pribadi yang dikumpulkan: Cookies dan data Penggunaan. Tempat pemrosesan: Amerika Serikat - Kebijakan Privasi<br/><br/> <b>Display Advertising extension for Google Analytics (Google Inc.)</b><br/> Google Analytics di GIC mungkin menggunakan periklanan berbasis minat Google, data pemirsa pihak ketiga, dan informasi dari Doubleclick Cookies untuk melaksanakan analisis tentang demografi, minat, dan data interaksi iklan. Data Pribadi yang dikumpulkan: Cookies dan data Penggunaan. Tempat pemrosesan: Amerika Serikat - Kebijakan Privasi - Tolak<br/><br/> <b>Menghubungi Pengguna</b><br/> <b>Mailing List atau Newsletter (GIC)</b><br/> Dengan berlangganan mailing list atau newsletter, alamat email Pengguna akan ditambahkan ke daftar kontak yang akan menerima pesan email yang memuat informasi atau iklan atau promosi terkait GIC. Alamat email Anda juga dapat ditambahkan ke daftar ini karena mendaftar di GIC atau melakukan pembelian. Data Pribadi yang dikumpulkan: alamat, alamat email, nama depan, nama belakang, dan nomor telepon.<br/><br/> <b>Formulir kontak (GIC)</b><br/> Dengan mengisi Data di formulir kontak, Pengguna memberi izin kepada GIC untuk menggunakan detail tersebut untuk membalas permohonan informasi, permohonan harga, atau jenis permohonan lainnya sesuai dengan judul formulir. Data Pribadi yang dikumpulkan: alamat, negara, tanggal lahir, alamat email, nama depan, jenis kelamin, nama belakang, nomor telepon, dan kode pos. Dengan mendaftar di GIC menggunakan alamat email anda, maka anda setuju untuk menerima pesan marketing melalui: Internal mail terminal klien; Email; Telepon; Live Chat Perusahaan; Mobile push notifications; Web push notifications; Layanan messenger instan (Viber, Telegram, Facebook, Messenger, WhatsApp dll);<br/><br/> <b>Penanganan pembayaran</b><br/> Layanan pemrosesan pembayaran memungkinkan GIC untuk memproses pembayaran dengan kartu kredit, transfer bank atau cara lain yang dilakukan melalui bank mana pun yang terdaftar di Indonesia. Untuk memastikan keamanan yang lebih besar, GIC hanya membagikan informasi yang diperlukan untuk melakukan transaksi dengan perantara keuangan yang menangani transaksi. Beberapa layanan ini juga memungkinkan pengiriman pesan berjangka waktu kepada Pengguna, seperti email yang berisi tagihan atau pemberitahuan mengenai pembayaran.<br/><br/> <b>Interaksi dengan platform live chat</b><br/> Jenis layanan ini memungkinkan Pengguna untuk berinteraksi dengan platform live chat pihak ketiga langsung dari halaman web GIC untuk menghubungi dan dihubungi oleh layanan dukungan GIC. Apabila salah satu layanan ini diinstal, maka layanan tersebut dapat mengumpulkan Data browsing dan Pemakaian di lokasi terinstalnya layanan tersebut, bahkan jika Pengguna tidak aktif menggunakan layanan tersebut. Selain itu, percakapan live chat mungkin disimpan.<br/><br/> <b>Zopim Widget (Zopim Technologies Pte Ltd)</b><br/> The Zopim Widget adalah layanan untuk berinteraksi dengan platform live chat Zopim yang disediakan oleh Zopim Technologies Pte Ltd. Data Pribadi yang dikumpulkan: Cookies dan data Penggunaan. Tempat pemrosesan: Singapura - Kebijakan Privasi<br/><br/> <b>Managing contacts and sending messages</b><br/> Jenis layanan ini memungkinkan pengelolaan database kontak email, kontak telepon, atau informasi kontak lainnya untuk berkomunikasi dengan Pengguna. Layanan ini mungkin juga mengumpulkan data terkait tanggal dan waktu kapan pesan tersebut dilihat oleh Pengguna, dan kapan Pengguna berinteraksi dengan pesan tersebut seperti mengeklik tautan di dalam pesan.<br/><br/> <b>Mandrill (The Rocket Science Group, LLC.)</b><br/> Mandrill adalah layanan manajemen alamat email dan pengiriman pesan yang disediakan oleh The Rocket Science Group, LLC. Data Pribadi yang dikumpulkan: Cookies dan data Penggunaan. Tempat pemrosesan: Amerika Serikat - Kebijakan Privasi<br/><br/> <b>Mailgun (Mailgun Technologies, Inc.)</b><br/> Mailgun adalah manajemen alamat email dan layanan pengiriman pesan yang disediakan oleh The Mailgun Technologies, Inc. Data Pribadi yang dikumpulkan: alamat email; Data Penggunaan. Tempat pemrosesan: Amerika Serikat - Kebijakan Privasi.<br/><br/> <b>Remarketing dan Penargetan Perilaku</b><br/> Jenis layanan ini memungkinkan GIC dan para mitranya untuk menginformasikan, mengoptimalkan, dan melakukan periklanan berdasarkan penggunaan GIC di masa lampau oleh Pengguna. Aktivitas ini dilaksanakan dengan melacak Data Penggunaan dan dengan menggunakan Cookies, informasi yang diteruskan ke para mitra yang mengelola aktivitas remarketing dan penargetan perilaku. Remarketing melalui Google Analytics for Display Advertising (Google Inc.) Google Analytics for Display Advertising adalah layanan Remarketing dan Penargetan Perilaku yang disediakan oleh Google Inc. yang menghubungkan aktivitas pelacakan yang dilakukan oleh Google Analytics dan Cookies dengan jaringan periklanan Adwords dan Doubleclick Cookie. Data Pribadi yang dikumpulkan: Cookies dan data Penggunaan. Tempat pemrosesan: Amerika Serikat - Kebijakan Privasi - Tolak<br/><br/> <b>Facebook Remarketing (Facebook, Inc.)</b><br/> Facebook Remarketing adalah layanan Remarketing dan Penargetan Perilaku yang disediakan oleh Facebook, Inc. yang menghubungkan aktivitas GIC dengan jaringan periklanan Facebook. Data Pribadi yang dikumpulkan: Cookies dan data Penggunaan. Tempat pemrosesan: Amerika Serikat - Kebijakan Privasi - Tolak<br/><br/> <b>Twitter Remarketing (Twitter, Inc.)</b><br/> Twitter Remarketing adalah layanan Remarketing dan Penargetan Perilaku yang disediakan oleh Twitter, Inc. yang menghubungkan aktivitas GIC dengan jaringan periklanan Twitter. Data Pribadi yang dikumpulkan: Cookies dan data Penggunaan. Tempat pemrosesan: Amerika Serikat - Kebijakan Privasi - Tolak<br/> <b>Facebook Custom Audience (Facebook, Inc.)</b><br/> Facebook Custom Audience adalah layanan Remarketing dan Penargetan Perilaku yang disediakan oleh Facebook, Inc. yang menghubungkan aktivitas GIC dengan jaringan periklanan Facebook. Data Pribadi yang dikumpulkan: Cookies dan data Penggunaan. Tempat pemrosesan: Amerika Serikat - Kebijakan Privasi - Tolak<br/><br/> <b>Twitter Tailored Audiences (Twitter, Inc.)</b><br/> Twitter Tailored Audiences adalah layanan Remarketing dan Penargetan Perilaku yang disediakan oleh Twitter, Inc. yang menghubungkan aktivitas GIC dengan jaringan periklanan Twitter. Data Pribadi yang dikumpulkan: Cookies dan data Penggunaan. Tempat pemrosesan: Amerika Serikat - Kebijakan Privasi - Tolak<br/><br/> <b>Google Ads Remarketing (Google Inc.)</b><br/> Google Ads Remarketing adalah layanan pemasaran ulang dan penargetan perilaku yang disediakan oleh Google LLC atau oleh Google Ireland Limited, tergantung pada lokasi GIC diakses, yang menghubungkan aktivitas GIC dengan jaringan iklan Google Ads dan Cookie DoubleClick. Pengguna dapat memilih keluar dari penggunaan cookie oleh Google untuk personalisasi iklan dengan mengunjungi Pengaturan Iklan Google. Data Pribadi yang dikumpulkan: Cookie; Data Penggunaan. Tempat pemrosesan: Amerika Serikat - Kebijakan Privasi - Tolak. Peserta Privacy Shield."
+            },
+            "item6" : {
+                "title" : "f). Informasi lebih lanjut tentang data pribadi",
+                "content" : "<b>• <b>• Komunikasi pemasaran </b> <br/> Saluran komunikasi pemasaran GIC resmi: Surat internal Terminal Klien Pemberitahuan push seluler Pemberitahuan push web Instant Messenger (Viber, Telegram, Facebook Messenger, WhatsApp dll.)<br/><br/> <b>• Keamanan/enkripsi data TLS</b><br/> GIC menggunakan enkripsi Transport Layer Security (TLS) (juga dikenal sebagai HTTPS) untuk semua data yang dikirimkan. Semua data dikirim melalui koneksi TLS 1.2 terenkripsi. Dalam kasus apa pun data kartu tidak disimpan dalam infrastruktur GIC. "
+            },
+            "item7" : {
+                "title" : "g). Informasi tambahan tentang pengumpulan dan pemrosesan Data",
+                "content" : "<b>Tindakan hukum</b><br/> Data Pribadi Pengguna dapat digunakan untuk keperluan hukum oleh Pengontrol Data, di Pengadilan atau di tahap yang mengarah ke tindakan hukum yang disebabkan oleh penyalahgunaan layanan GIC atau terkait. Pengguna menyatakan mengetahui bahwa Pengontrol Data mungkin diwajibkan mengungkapkan data pribadi berdasarkan permintaan otoritas yang berwenang.<br/><br/> <b>Informasi tambahan tentang Data Pribadi Pengguna</b><br/> Selain informasi yang dimuat dalam kebijakan privasi ini, GIC dapat menyediakan informasi tambahan dan kontekstual kepada Pengguna mengenai layanan tertentu atau pengumpulan dan pemrosesan Data Pribadi sesuai permintaan.<br/><br/> <b>Catatan Sistem dan Pemeliharaan</b><br/> Untuk keperluan operasional dan pemeliharaan, GIC dan layanan pihak ketiga apa pun dapat mengumpulkan file yang merekam interaksi dengan GIC (Catatan Sistem) atau menggunakan Data Pribadi lainnya (seperti alamat IP) untuk keperluan tersebut.<br/><br/> <b>Informasi yang tidak dimuat kebijakan ini</b><br/> Detail selengkapnya tentang pengumpulan atau pemrosesan Data Pribadi dapat diminta kepada Pengontrol Data kapan saja. Silakan lihat informasi kontak di awal dokumen ini.<br/><br/> <b>Hak Pengguna</b><br/> Pengguna memiliki hak, kapan saja, untuk mengetahui apakah Data Pribadinya disimpan dan dapat bertanya kepada Pengontrol data tentang isi dan asalnya untuk memastikan ketepatannya atau untuk meminta data tersebut ditambahkan, dibatalkan, diperbarui, atau diperbaiki, atau untuk mengubahnya menjadi format anonim atau memblokir data yang disimpan tidak sesuai dengan peraturan, atau menentang penggunaannya untuk alasan apa pun yang sah. Permohonan tersebut harus dikirim kepada Pengontrol Data melalui informasi kontak yang tertera di atas.<br/><br/> <b>GIC tidak melayani permohonan \"Do Not Track (Jangan Melacak)\".</b><br/> Untuk mengetahui apakah layanan pihak ketiga tertentu yang digunakan GIC menerima permohonan Do Not Track (Jangan Melacak), silakan baca kebijakan privasi masing masing.<br/><br/> <b>Perubahan terhadap kebijakan privasi ini</b><br/> Pengontrol Data berhak mengubah kebijakan privasi ini kapan saja dengan memberi pemberitahuan kepada Pengguna melalui halaman ini. Pengguna sangat disarankan untuk sering memeriksa halaman ini dan merujuk pada tanggal modifikasi terakhir yang tertera di bagian akhir halaman ini. Apabila Pengguna keberatan dengan suatu perubahan dalam Kebijakan ini, Pengguna tersebut harus berhenti menggunakan GIC dan dapat meminta kepada Pengontrol Data agar Data Pribadi Pengguna tersebut dihapuskan. Kecuali disebutkan sebaliknya, kebijakan privasi yang efektif saat itu berlaku untuk seluruh Data Pribadi yang dimiliki Pengontrol Data tentang Pengguna.<br/><br/> <b>Definisi dan referensi hukum</b><br/> <b>Data Pribadi (Data)</b><br/> Segala informasi tentang individu, badan hukum, institusi, atau asosiasi yang, atau dapat, diidentifikasikan, bahkan secara tak langsung, dengan merujuk ke informasi lainnya termasuk nomor identitas pribadi.<br/><br/> <b>Data Penggunaan</b><br/> Informasi yang dihimpun secara otomatis dari GIC (atau layanan pihak ketiga yang digunakan GIC) yang dapat meliput: alamat IP atau nama domain dari komputer yang digunakan oleh Pengguna GIC, alamat URI (Uniform Resource Identifier), waktu permohonan, metode yang digunakan untuk mengirimkan permohonan ke server, ukuran file yang diterima, kode numerik yang mengindikasikan status jawaban server (berhasil, kesalahan, dsn), negara asal, fitur browser dan sistem operasi yang digunakan oleh Pengguna, berbagai detail waktu per kunjungan (misalnya waktu yang dihabiskan di setiap halaman dalam Aplikasi), dan detail tentang path yang diikuti dalam Aplikasi dengan referensi khusus tentang urutan halaman yang dikunjungi, serta parameter lainnya tentang sistem operasi perangkat dan/atau lingkungan IT Pengguna.<br/><br/> <b>Pengguna</b><br/> Individu yang menggunakan GIC, yang harus sesuai atau mendapat izin dari Subyek Data, yang dimaksudkan oleh Data Pribadi.<br/><br/> <b>Subyek Data</b><br/> Individu atau badan hukum yang dimaksudkan oleh Data Pribadi.<br/><br/> <b>Pemroses Data (atau Pengawas Data)</b><br/> Individu, badan hukum, administrasi publik atau badan lainnya, asosiasi, atau organisasi yang diberi izin oleh Pengontrol Data untuk memproses Data Pribadi sesuai dengan kebijakan privasi ini.<br/><br/> <b>Pengontrol Data (atau Pemilik)</b><br/> Individu, badan hukum, administrasi publik atau badan lainnya, asosiasi, atau organisasi yang memiliki hak, bersama dengan Pengontrol Data lainnya, untuk membuat keputusan mengenai tujuan dan metode pemrosesan Data Pribadi dan cara yang digunakan, termasuk langkah perlindungan terkait operasional dan penggunaan GIC. Pengontrol Data, kecuali disebutkan sebaliknya, adalah Pemilik GIC.<br/><br/> <b>GIC</b><br/> Perangkat hardware atau software yang mengumpulkan Data Pribadi Pengguna.<br/><br/> <b>Cookies</b><br/> Data kecil yang tersimpan di perangkat Pengguna.<br/><br/> <b>Informasi Legal</b><br/> Pernyataan privasi ini telah disiapkan berdasarkan ketentuan beberapa peraturan perundang-undangan. Kebijakan privasi ini hanya berlaku untuk GIC, jika tidak dinyatakan sebaliknya dalam dokumen ini."
+            }
+        },
+        "career" : {
+            "header" : {
+                "title" : "Kesempatan Karir Bersama Kami",
+                "content" : "Jadilah bagian dari Global Investa Capital. Kami memberikan kesempatan sebuah karir yang mendukung Anda memberikan kontribusi nyata. Lihatlah bagaimana keahlian Anda mampu menciptakan perubahan dalam perusahaan kami. Temukan posisi yang Anda butuhkan di sini. "
+            },
+            "vacancy" : {
+                "hightlight" : "Sorotan",
+                "newest" : "Terbaru",
+                "see-detail" : "Lihat Detail",
+                "apply" : "Lamar Sekarang",
+                "job-description" : "Deskripsi Pekerjaan",
+                "qualification" : "Kualifikasi",
+                "date" : "Tanggal Proses Lamaran",
+                "age" : "Batas Usia",
+                "placement" : "Lokasi Penempatan"
+            }
+        },
+        "faq" : {
+            "header" : {
+                "title" : "Frequently Ask Question"
+            },
+            "item1" : {
+                "title" : "Apa itu GIC?",
+                "content" : "GICTrade adalah Platform Perdagangan Forex Peer to Peer (P2P) yang pertama di dunia yang memungkinkan nasabah untuk memilih sebagai Trader ataupun Market Maker. Platform GICTrade menggunakan teknologi Metatrader 5 dan Blockchain sehingga menghasilkan perdagangan yang aman dan transparan bagi semua penggunanya."
+            },
+            "item2" : {
+                "title" : "Mengapa GIC disebut sebagai terobosan baru?",
+                "content" : "GICTrade merupakan platform trading Forex pertama yang memberi akses kepada nasabah untuk menjadi Trader ataupun Market Maker, dengan kata lain, nasabah sebagai buyer akan bertemu langsung dengan nasabah sebagai seller (Peer to Peer). Dengan konsep inilah, tentunya GICTrade menjadi platform berada di level yang sangat berbeda dengan pialang pada umumnya: <ol> <li> Adil dan tidak berpihak kepada siapapun karena Trader maupun Market Maker adalah sama sama nasabah </li> <li> Dengan mempertemukan nasabah dengan nasabah tanpa melewati institusi ataupun marketing broker, maka biaya trading di GICTrade menjadi sangat minim: no komisi, free swap dan low spread </li> </ol>"
+            },
+            "item3" : {
+                "title" : "Apa saja kelebihan GIC dibandingkan dengan broker lainnya?",
+                "content" : "GICTrade adalah Platform Trading P2P, bukan broker ataupun pialang. GICTrade bekerja sama dengan pialang dan pedagang berlisensi di Indonesia dalam mencatat dan melaporkan tradingan nasabah di GICTrade. <br> Sekali lagi, Konsep P2P (nasabah bertemu langsung dengan nasabah) ini sangat powerful dan membuka banyak keuntungan bagi nasabah diantaranya: <br> <ul> <li> Meningkatkan kepercayaan nasabah yang trade di platform GICTrade karena GICTrade tidak memihak siapapun yang sama sama adalah nasabah. </li> <li> Ekosistem trading GICTrade yang P2P tanpa melewati institusi memberikan keuntungan ‘Zero Swap Charges’ . </li> <li> Zero Commissions - GIC diuntungkan dengan efek jaringan yang berarti tidak butuh biaya komisi. </li> <li> Low Spread - Dengan konsep P2P, GICTrade mampu memberikan spread yang sangat kompetitif dan rendah </li> </ul> Trading Security & Transparency - Teknologi blockchain memperkuat keamanan teknologi dan juga peer to peer yang mengutamakan transparansi transaksi, memungkinkan pengguna untuk melakukan trading dengan percaya diri. <br> Selain itu, trading di GIC juga lebih aman, karena GIC berkerjasama dengan pialang dan pedagang legal dan memiliki izin resmi di Indonesia untuk pelaporan semua transaksi ke Bursa Berjangka Jakarta (BBJ) dan Kliring Berjangka Indonesia (KBI) yang dibawah pengawasan Bappebti. "
+            },
+            "item4" : {
+                "title" : "Apakah GIC legal?",
+                "content" : "GIC merupakan platform trading forex legal yang didirikan di Singapore dan telah menerima pernyataan hukum resmi dari Firma Hukum Singapura RHTLawTaylor Wessing LLP dalam hal pengeluaran token GICT. Ya, di Indonesia GIC dengan badan usaha Global Investa Cakrawala bekerjasama dengan Pialang dan Pedagang yang legal dibawah pengawasan BBJ, KBI dan Bappebti. Nomor registrasi : Capital Megah Mandiri : 733/BAPPEBTI/SP/6/2005 Trijaya Pratama Futures : 407/BAPPEBTI/SI/VII/2004."
+            },
+            "item5" : {
+                "title" : "Apakah dana saya aman?",
+                "content" : "Sangat aman. Karena GICTrade bekerjasama dengan PT. Trijaya Pratama Futures sebagai pialang resmi yang melaporkan semua transaksi ke Bursa Berjangka Jakarta (BBJ) maka semua dana nasabah di setorkan ke Segregated Account PT. Trijaya Pratama Futures. <br> Segregated Account itu berarti rekening terpisah yang diawasi oleh lembaga pemerintah Indonesia."
+            },
+            "item6" : {
+                "title" : "Apa itu Market Maker",
+                "content" : "Market Maker disebut juga sebagai Liquidity Provider (LP) atau perusahaan Pedagang secara tradisional merupakan sebuah institusi yang berfungsi sebagai penyedia likuiditas dan melengkapi transaksi dari pihak trader. <br> Mari kami simak contoh dibawah ini biar lebih dimengerti: <br><br> Trader A melakukan transaksi buy XUL (gold) di harga 1500. Sebuah transaksi baru bisa terjadi apabila ada dua belah pihak yang setuju untuk bertransaksi di sebuah harga. <br> Dengan demikian, pada trader A tadi melakukan transaksi XUL di harga 1500, siapa yang menjual di harga tersebut ? Jawabannya adalah Market Maker. <br><br> Dengan demikian jelas Trader membuka posisi buy, maka Market Maker akan membuka posisi sell. Trader dan Market Maker akan selalu di posisi yang berlawanan. Trader apabila profit, maka Market Maker rugi demikian juga Trader apabila loss, maka Market Maker profit. <br><br> Untuk menjadi sebuah perusahaan Pedagang, di Indonesia memiliki syarat sebagai berikut: <br> - Perlu pengurusan ijin yang mahal <br> - Perlu setoran dana 35 Milyar <br> - Perlu rekruit SDM yang mahal <br> - Perlu ada kantor yang representatif (operasional mahal) <br> <br> Nah, bagaimana dengan nasabah bisa memilih menjadi Market Maker di GICTrade dan berapa biaya yang diperbolehkan untuk menjadi Market Maker ? <br> Dengan teknologi yang di platform GICTrade, nasabah bisa berfungsi sebagai Market Maker. Begini cara kerjanya: <br> Asumsi ada 4 nasabah sebagai Market Maker yang memiliki Dana yang sama besarnya."
+            },
+            "item7" : {
+                "title" : "Apa kelebihan menjadi Market Maker",
+                "content" : "Mari kita rekap apa yang sudah kita ketahui dari Market Maker: <br> <ol> <li> Perlu banyak biaya dan ijin untuk menjadi sebuah perusahaan Pedagang/Market Maker. </li> <li> Posisi berlawanan dengan trader. Trader Profit, Market Maker Rugi dan sebaliknya Kalo memilih menjadi Market Maker di platform GICTrade, apa kelebihannya ? </li> </ol> <br><br> <ul> <li> Market Maker bersikap pasif dikarenakan Market Maker akan mengambil posisi apabila ada trader yang buka posisi (Trading secara pasif). </li> <li> Karena bersifat pasif, maka nasabah tidak perlu mantengi chart, tidak perlu alokasikan waktu khusus untuk trading. </li> <li> Untuk menjadi nasabah Market Maker, nasabah hanya perlu deposit minimal 5,000 GICT untuk dapat menikmati fungsi selayaknya sebuah perusahaan pedagang tanpa harus repot2 urus ijin dan dana besar untuk disetor di pemerintah </li> <li> Nasabah hanya perlu membayar fee Market Maker sebesar 20% dari profit tanpa harus keluar biaya untuk buka kantor ataupun rekrut anggota dan bayar biaya operasional yang tinggi. (Kalo tidak profit, tidak perlu bayar fee). </li> </ul>"
+            },
+            "item8" : {
+                "title" : "Apa kelebihan menjadi Trader Aktif di GIC?",
+                "content" : "Trader di GIC memiliki banyak kelebihan diantaranya : <br> <ol> <li> Suasana trading adil P2P </li> <li> Modal murah mulai dari 2jt </li> <li> Biaya transaksi murah, dimana : </li> </ol> <br> <br> <ul> <li> Zero Commision : GIC diuntungkan dengan efek jaringan yang berarti tidak butuh biaya komisi. </li> <li> Zero Swap : Semua posisi pedagang akan diarahkan bertemu dengan pembuat pasar via P2P, jadi biaya swap dapat dihilangkan. </li> <li> Low Spread : Fungsi market maker memainkan peran sebagai penyedia likuiditas instan, mengurangi spread, dan slippage trading. Pasar P2P kita memungkinkan penyebaran 0 pip di kasus. </li> </ul>"
+            },
+            "item9" : {
+                "title" : "Bagaimana cara melakukan deposit?",
+                "content" : "Deposit awal untuk pembukaan account trading baru di bursa akan menggunakan rekening terpisah / Segregated Account PT. Trijaya Pratama Futures 035-3119670 melalui Bank BCA."
+            },
+            "item10" : {
+                "title" : "Berapakah minimal deposit?",
+                "content" : "Deposit minimal untuk Trader adalah 150 GICT atau senilai Rp. 2 jt (mengikuti kurs yang berlaku di primadax) dan untuk Market Maker 5000 GICT atau senilai Rp. 75 jt ( mengikuti kurs yang berlaku di primadax). Per 1 GICToken Floating bisa di cek di primadax."
+            },
+            "item11" : {
+                "title" : "Berapa Minimum Lot untuk Trading GIC?",
+                "content" : "Bagi para traders di GIC, trading bisa dimulai dari 0,1 lot sesuai dengan produk dari BBJ (Bursa Berjangka Jakarta) untuk semua Pair yang tersedia saat ini."
+            },
+            "item12" : {
+                "title" : "Produk apa saja yang bisa ditradingkan di GIC?",
+                "content" : "Item trading yang tersedia di GIC di antara nya adalah mata uang (currency), komoditi (gold,oil) dan saham INDEX (Nikkei, Hanseng) <br> Dan untuk produk GICTrade itu sendiri adalah : <br> <ul> <li> GIC Trade: Platform trading forex (MT5) berbasis blockchain untuk trader dan market maker </li> <li> GIC Token: Utility Token spesial dan khusus hanya untuk dipergunakan pada platform GICTrade </li> <li> GIC Exchange: Platform exchange ini digunakan untuk memperjual-belikan GIC token, dan juga mencairkan fiat ke Rupiah. </li> </ul>"
+            },
+            "item13" : {
+                "title" : "Apakah GIC menyediakan training untuk trader pemula seperti saya?",
+                "content" : "GIC memberikan fasilitas akun demo yang diberikan kepada setiap member GIC yang sudah melakukan registrasi. Dan juga terdapat group Telegram GIC t.me/GICTrade dan GIC juga secara rutin mengadakan Kopdar membahas cara trading."
+            },
+            "item14" : {
+                "title" : "Apa itu GICT dan kenapa trading di GIC harus menggunakan GICT?",
+                "content" : "GICT atau GIC token itu adalah token utilitas yang digunakan untuk bertransaksi melalui platform GIC sehingga investor dapat menikmati fitur-fitur yang disediakan di platform GIC."
+            },
+            "item15" : {
+                "title" : "Bagaimana saya membeli GICT?",
+                "content" : "<ol> <li> Akses platform Trading Primadax. Anda bisa mengakses melalui Portal pengguna atau langsung dari halaman Primadax. </li> <li> Masuk ke menu Deposit Balance. </li> <li> Untuk membeli GICT, anda perlu memiliki saldo di Primadax. Jika anda telah memiliki saldo, silahkan skip step ini. Jika belum memiliki saldo, silahkan isi saldo dengan cara berikut: <ol> <li> Klik ‘Deposit/Voucher’ di Row IDR atau Rupiah. </li> <li> Transfer jumlah yang ingin didepositkan ke 035-3119670, PT. TRIJAYA PRATAMA FUTURES, BCA. </li> <li> Masukkan Nama Bank dimana anda melakukan transfer, Nomor </li> <li> Rekening Akun, Jumlah Deposit dan Screenshot/Foto Bukti Transfer. </li> <li> Klik Deposit. </li> <li> Tunggu telepon konfirmasi. </li> </ol> </li> <li> Setelah saldo anda terisi, kembali ke menu sebelumnya, kemudian klik ‘Market’ di Row GICT. </li> <li> Ada 2 fitur pembelian yang anda bisa pakai, Limit Order dan Market Order. Limit Order adalah pembelian di harga yang tidak ada di order list (selling GICT), dan Market Order adalah pembelian di harga terendah yang ada di order list (selling GICT). <ol> <li> Pembelian dengan menggunakan Limit Order: </li> <li> Masuk ke Tab Limit Order </li> <li> Tulis harga yang anda inginkan. </li> <li> Tulis jumlah GICT yang anda ingin beli. </li> <li> Klik Next. </li> <li> Pembelian dengan menggunakan Market Order: </li> <li> Masuk ke Tab Market Order. </li> <li> Tulis berapa IDR yang anda ingin depositkan sebagai GICT. </li> <li> Klik Next. </li> </ol> </li> </ol> <i>Pembelian GICT dengan harga yang ada di order list akan dikenakan taker fee sebesar 0.25%</i>"
+            },
+            "item16" : {
+                "title" : "Bagaimana saya mencairkan GICT saya?",
+                "content" : "<i>Pastikan dana GICT anda tersimpan di wallet exchange dan bukan di akun trading/market maker ataupun portal anda.</i> <br><br> <ol> <li> Akses platform Trading Primadax. Anda bisa mengakses melalui Portal pengguna atau langsung dari halaman Primadax. </li> <li> Masuk ke menu Deposit Balance. </li> <li> Masuk ke ‘Market’ di Row GICT. </li> <li> Ada 2 fitur penjualan yang anda bisa pakai, Limit Order dan Market Order. Limit Order adalah penjualan di harga yang tidak ada di order list (buying GICT), dan Market Order adalah penjualan di harga termahal di order list (buying GICT). <br> Penjualan dengan menggunakan Limit Order: <ul> <li> Masuk ke Tab Limit Order </li> <li> Tulis harga yang anda inginkan. </li> <li> Tulis jumlah GICT yang anda ingin dijual. </li> <li> Klik Next. </li> <li> Penjualan dengan menggunakan Market Order: </li> <li> Masuk ke Tab Market Order. </li> <li> Tulis berapa GICT yang anda ingin dijual. </li> <li> Klik Next. </li> </ul> </li> <li> Setelah penjualan berhasil dan dana IDR telah didapatkan, masuk ke menu ‘Withdraw Balance’ lalu ‘IDR’. </li> <li> Kemudian Isi Nama Bank, Nama Kota Bank tersebut, Nomor Rekening Akun, dan Jumlah IDR yang ingin ditarik. </li> </ol> <i> Penjualan GICT dengan harga yang ada di order list akan dikenakan taker fee sebesar 0.25% </i>"
+            },
+            "item17" : {
+                "title" : "Berapa lama withdrawal saya cair?",
+                "content" : "Seluruh proses withdrawal dilakukan pada hari kerja. Berapa lama proses withdrawal tergantung dengan kapan proses withdrawal tersebut dilakukan: <br> <ul> <li> Jika dilakukan dibawah jam 11.00 WIB : Akan diproses hari itu juga </li> <li> Jika dilakukan diatas jam 11.00 WIB : Akan diproses pada keesokan hari. </li> </ul> Proses ini dilakukan untuk Bank BCA. Untuk bank lain akan diterima nasabah beberapa hari kemudian sesuai prosedur bank masing-masing."
+            },
+            "item18" : {
+                "title" : "Bagaimana cara melakukan deposit dengan Merchant Duitku?",
+                "content" : "Bagaimana Cara Melakukan Deposit dengan Merchant Duitku di Portal GICTrade <br> 1. Selesaikan proses verifikasi OTP dan KYC <br> 2. Pilih metode deposit “duitku” <br> 3. Pilih metode transfer yang telah tersedia dan masukkan jumlah transfer, klik “apply” <br> 4. Proses akan berlanjut sesuai merchant yang dipilih <br> 5. Setelah proses pembayaran pada merchant berhasil, maka dana anda telah masuk ke balance <br> <br> Bagaimana Cara Melakukan Deposit dengan Duitku di Primadax: <br> 1. Pilih menu deposit balance dan klik deposit/voucher IDR <br> 2. Pilih opsi Duitku deposit IDR <br> 3. Pilih payment method yang tersedia dan masukkan jumlah deposit. minimal Rp. 20.000 klik Submit <br> 4. Proses akan berlanjut sesuai payment method yang dipilih <br> 5. Setelah proses pembayaran berhasil, maka dana anda telah masuk ke balance <br>"
+            },
+            "item19" : {
+                "title" : "Bagaimana saya daftar ke GIC Trade",
+                "content" : "Berikut adalah cara pendaftaran ke GIC Trade <ol> <li> Klik Daftar </li> <li> Isikan data pribadi anda sesuai dengan kotak isiannya. </li> <li> Klik tombol Register </li> <li> Akan muncul Check your email for activation link. </li> <li> Cek E-mail anda untuk email berjudul GIC Trade Account Confirmation </li> <li> Klik Account Activation </li> <li> Selamat! anda telah berhasil meregistrasikan data anda pada web GICTrade. Untuk melengkapi data diri anda, anda bisa langsung melengkapi profile Anda. </li> </ol>"
+            },
+            "item20" : {
+                "title" : "Bagaimana saya mendapatkan Email Aktivasi kembali?",
+                "content" : "Untuk meminta email aktivasi akun GIC, anda tinggal mengakses halaman login GICTrade. Lalu anda masukkan email dan password yang anda gunakan saat registrasi. Maka akan muncul pesan \"akun anda belum di aktivasi, silahkan periksa pesan masuk atau klik disini untuk mengirim kembali email aktivasi\". silahkan anda klik pada kata \"disini\" dan anda akan mendapatkan email aktivasi anda di pesan masuk email anda."
+            },
+            "item21" : {
+                "title" : "Kenapa sudah pasang SL atau TP di layar harga nampak sudah menyentuh harga yang direquest, namun tidak DONE?",
+                "content" : "Perlu di ketahui terlebih dahulu agar SL atau TP yang di anggap “DONE” itu harus memenuhi ketentuan sebagai berikut : <br> <ol> <li> Level Stoploss dan Takeprofit diangap “DONE” jika harga Bid/Ask pada Metatrader GICtrade telah menyentuh harga yang diinginkan , kecuali jika harga tersebut di kategorikan sebagai “Wrong Quote” </li> <li> “Wrong Quote” atau Kesalahan Kuotasi adalah: suatu keadaan dimana harga sedia jual (Bid) atau harga sedia beli (Ask) yang ditampilkan pada MetaTrader 4 atau 5 Client Terminal tidak mencerminkan harga sedia jual (Bid) atau harga sedia beli (Ask)/ keadaan pasar yang sebenarnya. <ul> <li> Harga bergerak tidak normal / liar (naik / turun) dan cepat dari harga terakhir dan kembali lagi ke harga awal sebelumnya. Harga yang terjadi dalam transaksi tidak sesuai dengan harga pasar pada saat itu dengan mengacu pada sumber harga di GICTrade. </li> <li> Level harga SL atau pun TP yang done tidak selalu done pada harga yang dipasang, dikarenakan adanya pergerakan cepat di market yang tinggi / “hightick”. </li> <li> Harga yang tertera di Reuters, Telequote, Bridge dan Data Provider lainnya hanya merupakan harga referensi yang bersifat tidak mengikat. Konfirmasi “done” atau “tidak done” nya SL / TP adalah berdasarkan harga Bid / Ask di Meta trader GICTrade. </li> </ul> </li> <li> Jika terjadi “Wrong Quote” pada system, maka GICTrade berhak untuk membatalkan transaksi yang terjadi dengan atau tanpa persetujuan nasabah. </li> <li> Jika terjadi pelebaran spread yang tidak wajar di market, spread normal adalah : 60 points untuk Major Rate, 120 points untuk Cross Rate sedangkan untuk Gold adalah 100 points. </li> </ol>"
+            },
+            "item22" : {
+                "title" : "Kenapa pending order (LO = Limit Order dan SO = Stop Order) atau SL/TP bisa hilang dengan sendirinya?",
+                "content" : "Berikut adalah hal-hal yang harus di perhatikan untuk memasang LO / SO & SL / TP yaitu : <br> <ol> <li> Semua LO / SO dapat dipasang 15 menit sesudah pembukaan market hari Senin. GICTrade dapat menghapus LO / SO yang dipasang dalam kurun waktu kurang dari 15 menit setelah pembukaan market tanpa pemberitahuan lebih lanjut. </li> <li> Jam perdagangan untuk forex dan Gold : <ul> <li>Forex Major Rate / Cross Rate :</li> </ul> Musim panas : <br> Senin = 06:01 – 03:59 WIB <br> Selasa – Kamis = 04:01 – 03:59 WIB <br> Jum’at = 04:01 – 03:30 WIB <br> Musim dingin : <br> Senin = 06:01 – 04:59 WIB <br> Selasa – Kamis = 05:01 – 04:59 WIB <br> Jum’at = 05:01 – 04:30 WIB <br> <ul> <li>Gold :</li> </ul> Musim panas : <br> Senin = 06:01 – 03:29 WIB <br> Selasa – Jum’at = 05:01 – 03:29 <br> Musim dingin : <br> Senin = 06:01 – 04:29 WIB <br> Selasa – Jum;at = 05:01 – 04:29 <br> </li> <li> LO / SO & SL / TP yang dipasang maka akan berlaku sampai hari Jum’at. LO / SO yang belum done dan tidak di batalkan / cancel pada hari Jum’at maka akan di batalkan oleh pihak GICTrade tanpa ada pemberitahuan terlebih dahulu. </li> <li> Apabila ada market holiday atau ada penutupan market lebih awal , maka LO / SO & SL / TP yang sudah dipasang dan belum done, maka LO / SO & SL / TP tersebut akan di hapus, dan LO / SO & SL / TP dapat kembali dipasang 15 menit setelah pembukaan ,market esok hari nya. </li> <li> Dalam kondisi jika ada market holiday sebelum penutupan market hari Jum’at, dan pada saat penutupan market holiday tersebut LO / SO belum done dan tidak di batalkan/cancel, maka LO / SO tersebut akan otomatis di batalkan tanpa ada pemberitahuan lebih lanjut. Nasabah dapat memasang kembali LO / SO tersebut pada keesokan hari nya. </li> <li> Pemasangan LO / SO bisa untuk new posisi ataupun likuidasi. </li> </ol>"
+            }
+        }
+    }
+}

@@ -1,0 +1,41 @@
+.careerfilter-container{
+    height: 100px;
+}
+
+.careerfilter-boxFilter{
+    border-radius: 100px;
+    position: absolute;
+    top:-50px;
+    padding:30px;
+    left:0;
+}
+
+
+@media screen and (max-width: 992px){
+    .careerfilter-container{
+        height: 400px;
+    }
+    
+    .careerfilter-boxFilter{
+        border-radius: 0;
+        width: 90%;
+        margin: auto;
+        left:5%;
+    }
+}
+
+
+
+@media screen and (max-width: 720px){
+    .careerfilter-container{
+        height: 250px;
+    }
+    
+    .careerfilter-boxFilter{
+        border-radius: 0;
+        width: 90%;
+        margin: auto;
+        left:5%;
+        top: -150px;
+    }
+}

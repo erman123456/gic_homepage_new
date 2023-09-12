@@ -1,0 +1,14 @@
+.careerdetailinformation-container{
+    width: 100%;
+    top: -50px;
+    position: absolute;
+}
+.careerdetailinformation-wrapper{
+    height: 1000px;
+}
+
+@media screen and (max-width:992px){
+    .careerdetailinformation-container{
+        
+    }
+}

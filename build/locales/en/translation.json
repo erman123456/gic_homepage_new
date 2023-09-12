@@ -1,0 +1,555 @@
+{
+    "global" : {
+        "see-video" : "See Video",
+        "buy-gict" : "Buy GICT Coin",
+        "learn-more" : "Learn More",
+        "not-found" : {
+            "title" : "Page not found ",
+            "content" : "Your destination page isn't available, please go to Homepage",
+            "link" : "Back to Homepage"
+        },
+        "no-internet" : {
+            "title" : "No Internet Connection ",
+            "content" : "Check your Wifi or intetnet connection and try again by refreshing the page",
+            "link" : "Try again"
+        }
+    },
+    "navbar" : {
+        "introduction" : {
+            "title" : "Introduction",
+            "submenu" : {
+                "about" : "About Us",
+                "gictcoin" : "GICT Coin" 
+            }
+        }
+    },
+    "footer" : {
+        "title" : "All In One Forex Trading Ecosystem. Find One Stop Trading Solution With 6 GIC Products. GIC Features make everyone, beginer or even proffessional trader to reach profit easier.",
+        "contact" : "Contact Us",
+        "support" : "Support",
+        "install" : "Download App"
+    },
+    "home-page" : {
+        "banner" : {
+            "title" : "All In One Forex Trading Ecosystem",
+            "content" : "Find One Stop Trading Solution With 6 GIC Products"
+        },
+        "introduction" : {
+            "title" : "What is GIC?",
+            "content" : "GIC is the first all in one Forex Trading Ecosystem to revolutionize the whole Forex Industry."
+        },
+        "product" : {
+            "title" : "Our Products",
+            "item1" : {
+                "title" : "GICTrade",
+                "content" : "Be a trader or market maker. Commission free. Swap free. Low spread."
+            },
+            "item2" : {
+                "title" : "GICSocial Trade",
+                "content" : "Sosial copy trading system. Be a master, followers, or both. "
+            },
+            "item3" : {
+                "title" : "GICAcademy",
+                "content" : "Place to start learning about forex trading industry."
+            },
+            "item4" : {
+                "title" : "GICCare",
+                "content" : "We're dreaming everyone can have an equal opportunity to succeed."
+            },
+            "item5" : {
+                "title" : "GICPartner",
+                "content" : "Get an offer you can't refuse from GICPartner."
+            },
+            "item6" : {
+                "title" : "GICAfiliate",
+                "content" : "Tell the world about GIC and get a massive rewards."
+            }
+        },
+        "choose-us" : {
+            "title" : "Why Choose Us?",
+            "item1" : {
+                "highlightContent" : "One Stop Solutions.",
+                "content" : "GIC have six products that complement each other in a forex trading industry."
+            },
+            "item2" : {
+                "highlightContent" : "Legal.",
+                "content" : "Every transactions are reported to the Jakarta Futures Exchange (BBJ) and the Indonesian Derivatives Clearing House (KBI)."
+            },
+            "item3" : {
+                "highlightContent" : "Secure and Transparent.",
+                "content" : "GIC using the latest blockchain technology with GICT Coin."
+            }
+        },
+        "media-partner" : {
+            "title" : "Media Partner"
+        },
+        "license" : {
+            "title" : "Licensed by",
+            "content" : "The transactions are reported to the Jakarta Futures Exchange (BBJ) and the Indonesian Derivatives Clearing House (KBI)."
+        }
+    },
+    "introduction" : {
+        "about-page" : {
+            "greeting" : {
+                "title" : "GIC Brings Inovation for Every Traders",
+                "content" : "We believe forex trading doesn't always have to be difficult. For that reason, GIC created GICTrade, GICSocial Trade, GICAcademy, GICCare, GICPartner, and GICAffiliate."
+            },
+            "vission" : {
+                "title" : "Our Vision",
+                "content" : "Become the first all in one forex trading ecosystem that solved all problems from forex trading industry."
+            },
+            "mission" : {
+                "title" : "Our Mission",
+                "content" : "Unite all brokers & traders around indonesia on the GIC ecosystem."
+            },
+            "gic-value" : {
+                "fair" : {
+                    "title" : "Fair & Square",
+                    "content" : "With Peer to Peer (P2P) system GIC create a balance trading ecosystem between Trader & Market Maker."
+                },
+                "collaboration" : {
+                    "title" : "Collaboration",
+                    "content" : "GIC are supported by PT. Trijaya Pratama Futures & PT. Capital Megah Mandiri."
+                },
+                "legality" : {
+                    "title" : "Legality",
+                    "content" : "Every transaction are reported directly to Jakarta Futures Exchange and Kliring Berjangka Indonesia."
+                }
+            },
+            "the-executive" : {
+                "title" : "The Executive",
+                "content" : "More than 20 years of experience in the futures and investment industry"
+            },
+            "the-advisor" : {
+                "title" : "Company Advisor"
+            }
+        },
+        "gictcoin-page" : {
+            "greeting" : {
+                "title" : "Bring Solution for Forex Trading Industry",
+                "content" : "GICT Coin using the latest blockchain system to disrupt forex trading industry, GICT Coin is use as main currency in GIC forex trading ecosystem (GICTrade, GICSocial Trade, GICAcademy, GICPartner, GICCare, & GICAffiliate."
+            },
+            "problems-solved" : {
+                "title" : "GICT Coin Solved Many Problems",
+                "trader-perspective" : {
+                    "title" : "Trader Perspective",
+                    "item1" : "Illegal Practice",
+                    "item2" : "Transparency",
+                    "item3" : "High Transaction Fee"
+                },
+                "broker-perspective" : {
+                    "title" : "Broker Perspective",
+                    "item1" : "Strict Regulation",
+                    "item2" : "High Capital",
+                    "item3" : "High Operational Fee"
+                }
+            },
+            "coin-benefits" : {
+                "title" : "GICT Coin Benefits",
+                "item1" : "Swap Free",
+                "item2" : "Security and Transparency",
+                "item3" : "Commision Free",
+                "item4" : "Low Spread"
+            },
+            "market-size" : {
+                "forex" : {
+                    "title" : "Forex Market Size",
+                    "content" : "Indonesia's forex trading volume reaches approximately USD 672 billions per year."
+                },
+                "crypto" : {
+                    "title" : "Cryptocurrency Market Size",
+                    "content" : "There are over 1.5 million crypto traders in Indonesia back in 2018 and it’s continue to grow."
+                }
+            }
+        }
+    },
+    "product" : {
+        "gictrade-page" : {
+            "header" : {
+                "title" : "What is GICTrade?",
+                "content" : "GICTrade is P2P forex trading platform while people can choose between traders or market makers."
+            },
+            "blog" : {
+                "item1" : {
+                    "title-highlight" : "Active Traders",
+                    "title-dark" : "Trader",
+                    "content" : "Trader is an individual who engages in the buying and selling of financial assets in any financial market, either for himself or on behalf of another person"
+                },
+                "item2" : {
+                    "title-highlight" : "Passive Traders",
+                    "title-dark" : "Market Maker",
+                    "content" : "Market maker is a dealer in securities or other assets who undertakes to buy or sell at specified prices at all times."
+                }
+            },
+            "gictrade-benfits" : {
+                "title1" : "GICTrade Benefit",
+                "subtitle1": "Active Traders",
+                "item1-1" : "Free Commission",
+                "item1-2" : "Free Swap",
+                "item1-3" : "Low Spread",
+                "item1-4" : "Transparent",
+                "subtitle2": "Pasive Traders",
+                "item2-1" : "Easy",
+                "item2-2" : "Full Control",
+                "item2-3" : "Minimum Deposit",
+                "item2-4" : "Instant Result"
+            }
+        },
+        "gictrade-page-version2" : {
+            "header" : {
+                "title" : "- The Peer to Peer Forex and Commodity Platform You Can Trust",
+                "content" : "Forex Trading is the largest financial market in the world amounting to more than $6.6 trillion dollars daily turnover in 2019, but despite of this, Forex trading image is not good and there are wide assumptions that Brokers are dishonest and Forex Trading considered as “scam”. After going through the Forex Trading ecosystem, we identified several big problems in Forex Trading with no solutions (yet!)  "
+            },
+            "header2" : {
+                "title" : "The Biggest Problem in the Forex Trading Industry!",
+                "content" : "Forex trading operates like a casino with a lot of conflict of interest!",
+                "item1" : "1. The more you trade, the more the brokers are making money",
+                "item2" : " 2. Traders and Market Makers are always in opposite direction meaning when Traders profit, Market Makers lose money and vice versa!"
+            },
+            "game-changer" : {
+                "title" : "The Game Changer",
+                "content" : "GIC believes there is a better trading arena for both Traders and Market Makers and we set out to build just that - a blockchain based Peer to Peer Forex and Commodity Trading Platform with no conflict of interest, minimum fees, better transparency and access to Market Maker function"
+            },
+            "trader-problem" : {
+                "item1" : {
+                    "title" : "Fees",
+                    "content" : "High trading fees are the second biggest problem that traders faced. The higher the trading fees, the more difficult traders will be able to break even and profit"
+                },
+                "item2" : {
+                    "title" : "No Transparancy",
+                    "content" : "With all the trading activities being recorded on centralized server, there is lack of transparancy, hence trust"
+                },
+                "item3" : {
+                    "title" : "No Access to Market Maker Function",
+                    "content" : "With all the trading activities occur on the ‘other’ side server, there is lack of transparancy, hence trust"
+                }
+            },
+            "the-benefit" : {
+                "title" : "The Benefit",
+                "content" : "With the breakthrough Peer to Peer technology, All GIC customers are able to choose to become Traders or/and Market makers seamlessly, therefore we are also able to cut intermediaries and reduce cost, that will benefit traders in the platform",
+                "item1" : "1. Free Commission fees",
+                "item2" : "2. Free Swap with no minimum deposit",
+                "item3" : "3. Lowest spread Access to Market Maker function for retailer with a minimum equity of $5000",
+                "item4" : "4. With both Traders and Market Makers consisted of customers instead of institution. There is no more conflict of interest problem"
+            }
+        },
+        "socialtrade-page" : {
+            "header" : {
+                "title" : "GICSocial Trade",
+                "content" : "Earn new source of income through GICSocial Trade by Becoming a master or follower. GICSocial Trade unite all traders without any limitation"
+            },
+            "blog" : {
+                "item1" : {
+                    "title-highlight" : "Master",
+                    "title-dark" : "",
+                    "content" : "Earn extra money from followers who follow your trades. Promote, get new Followers, and get your benefits as master!"
+                },
+                "item2" : {
+                    "title-highlight" : "Followers",
+                    "title-dark" : "",
+                    "content" : "Choose your master in GICSocial Trade. Pick copytrade to follow their trading action without spending a lot of time creating your own strategies."
+                }
+            },
+            "socialtrade-benefits" : {
+                "title" : "GICTSocial Trade Benefits",
+                "item1" : "No Broker Limitation",
+                "item2" : "Cross platform MT4 & MT5",
+                "item3" : "No Gadgets Limitation",
+                "item4" : "Supported by the Latest Technology"
+            }
+        },
+        "gicaffiliate-page" : {
+            "header" : {
+                "title" : "GICAffiliate or Introducing Brokers",
+                "content" : "Introduce GIC ecosystem to your community with 3 simple steps and get a massive bonus reward from GICAffiliate programs"
+            },
+            "massive-reward" : {
+                "title" : "3 Steps To Get Massive Reward",
+                "item1" : "Get GICAffiliate Link",
+                "item2" : "Invite Your Friends",
+                "item3" : "Enjoy The Reward!",
+                "detail1" : {
+                    "title" : "For More Details",
+                    "content" : "Please download the file below to learn more about GICAffiliate"
+                },
+                "detail2" : {
+                    "title" : "Became GICAffiliate",
+                    "content" : "If you interest to become GICAffiliate Please contacts this numbers +62-817-0095-888 or submit your application."
+                }
+            }
+        }
+    },
+    "register-page" : {
+        "title" : "Sign Up GIC Forex Trading Ecosystem",
+        "email" : "Email Address",
+        "phone" : "Phone Number",
+        "password" : "Password",
+        "referral" : "Referral",
+        "button" : "Register",
+        "already" : "Already have an account?",
+        "login" : "Login"
+    },
+    "login-page" : {
+        "email" : "Email Address",
+        "password" : "Password",
+        "button": "Login",
+        "donthave" : "Don't have an account?",
+        "create" : "Create Account"
+    },
+    "legacy" : {
+        "terms-page" : {
+            "header" : {
+                "title" : "Terms and Condition for Online Market"
+            },
+            "item1" : {
+                "title" : "Term of Service",
+                "content" : "These Terms of Service constitute a binding agreement between you and Global Investa Capital Pte. Ltd., a limited liability company registered in Singapore under Entity Number Unique 201806666Z (“GIC,” or “We”). The terms and conditions set forth herein (\"Terms of Service\") apply to and manage your access to and use of the GIC Platform (consisting of all web pages that located at gicindonesia.com) (\"GIC Platform\") and the services that GIC offers in connection therewith (each, the \"Service\" and collectively, the \"Service\"), and information, text, graphics, photos or other materials uploaded, downloaded or appearing on the GIC Platform or in connection with our terms of the Service (collectively referred to as \"Content\"). Your access to and use of the Service signifies your acceptance of These Terms of Service and agreement to be bound by them and any and all terms otherwise applicable referred to herein in absolute terms.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item2" : {
+                "title" : "Interpretation",
+                "content" : "The clause title does not affect the interpretation of these Terms of Service. Unless the context dictates otherwise, words in the singular include versions plural and words in the plural include the singular version. Any word that follows the term \"including\",\"specifically\", \"for example\", or an expression that should be construed as illustrative and without limiting the meaning of words, descriptions, definitions, phrases, or the term before that term.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item3" : {
+                "title" : "Changes to Term of Service",
+                "content" : "We may change the Terms of Service from time to time at our sole discretion without being obligated to notify you in advance. It is your responsibility to check this page periodically for changes to the Terms This service. By continuing to use the Service after the amendment to the Terms of Service above, you agree to be bound by such amendments.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item4" : {
+                "title" : "Service Chenges",
+                "content" : "The services we provide are always evolving. The form and nature of the Services we provide may change from time to time without prior notification to you. In addition, we may stop (permanently or temporarily) provide the Service (or any features within the Service) to you on a specific or to users in general without prior notice. We also have the right to place restrictions on your access to or use of the Service on at our sole discretion at any time and without prior notice to you. We make no representations, warranties or warranties, express or implied, that Our Services or any Content on the GIC Platform is accurate, complete, completely free of error, or up-to-date, and is not responsible for any errors or discrepancies in the Service or Content. ",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item5" : {
+                "title" : "Account Information and Security",
+                "content" : "In order to access and use the GIC Platform, Services or Content, you may need to create a password protected account. We can ask you to provide us certain personal information to open your account or during your use of the Platform GIC or the Service in general. You are responsible for maintaining the security of your account. We advise you not to share your account details or password with anyone other. You are fully responsible for any activity on your account, whether authorized or made by you or not, including purchases made using any payment instrument. Please notify us immediately of any loss, theft, fraud, or unauthorized use of your account or password. You agree that you will provide us with information that is accurate, complete, correct, and updated and immediately update us if there is a change in the previous information you give to us. We will fully comply with the Personal Data Protection Act 2012 regarding all personal information you provide to us.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item6" : {
+                "title" : "Acces The GIC Platform and Services",
+                "content" : "You are responsible for ensuring that you are authorized to access and use the GIC Platform and Services, and that you do so completely comply with all applicable laws and regulations. We reserve the right at any time (but not obliged) to refuse any order to merge, suspend, or discontinue your use of or access to the GIC Platform or the Services at our discretion, and without any obligation or liability to you. We also reserve the right to access, read, store and disclose any information we reasonably believe necessary to (i) comply with any law, regulation, legal process, or government request applicable; (ii) enforce these Terms of Service, including potential investigations offense here; (iii) detect, prevent, or otherwise address fraud, security, or technical; (iv) respond to user support requests; or (v) protect the rights, property, or security of the GIC, its users, and the public. We do not guarantee that the GIC Platform, Services or any Content will always be available without interruption. We can suspend, withdraw, stop or change everything or any portion of the GIC Platform, Services or Content, or access to the same, without giving you any prior notice. We will not be responsible for you if, for any reason, the GIC Platform, Services or any Content is unavailable for a certain period of time. When accessing or using the GIC Platform, Services or any Content, you do not may: ",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES.",
+                "a" : "access or use the same in any way that violates legal, illegal, fraudulent, or harmful, or in connection with any purpose or activity unlawful, illegal, fraudulent, or harmful, or for any commercial purpose that is not allowed",
+                "b" : "access, tamper with, or use non-public areas of the GIC Service or Platform",
+                "c" : "investigate, scan or test system or network vulnerabilities or breaches, or circumvent security or authentication measures",
+                "d" : "access or seek the Service by any means (automatic or otherwise, including by scraping, using bots, or by mining data) other than through the currently available and published GIC interface provided by GIC",
+                "e" : "access or use a password protected, secure or non-public area from the GIC Platform, or accessing data on the GIC Platform that is not intended for you, except as specifically permitted in writing by GIC",
+                "f" : "use the GIC Platform or the Services in any way to deliver altered, deceptive or false source identifying information",
+                "g" : "interfere with or interfere with (or attempt to do so) the access of users, hosts, or any network, including, but not limited to, sending viruses, Trojans, worms, logic bombs, or other technologically harmful or harmful material; overloading, flooding, spamming, mail-bombing GIC Platform; or create a script creation of Content in such a way as to disturb or create an unnecessary burden should be on the GIC Platform",
+                "h" : "alter or modify the GIC Platform or Content, or make reproductions electronic, adaptation, distribution, performance or display of the GIC Platform or Content (or part)",
+                "i" : "remove or change any proprietary notices or labels on GIC Platform, or use any GIC trademarks as meta-tags on the site web or other applications",
+                "j" : "copy, modify, delete or tamper with any information contained on the computer servers used or controlled by the GIC Platform",
+                "k" : "use the GIC Platform to violate any third party's legal rights or to take any action that is harassing, libelous, libelous, abusive, torturing, threatening, harmful, or unpleasant",
+                "l" : "and impersonate or misrepresent your affiliation with any person or entity at GIC or while using the GIC Platform or Services Attempts to perform the above prohibited acts are also not permitted.",
+                "next-content" : "GIC will report the violation to the relevant law enforcement authorities and will cooperate fully with them in dealing with the violation. This may include revealing your identity to them. If such a violation occurs, your rights to access to and use of the GIC Platform and Services will be terminated immediately."
+            },
+            "item7" : {
+                "title" : "Use on Behalf of Others",
+                "content" : "If you access or use the GIC Platform or Services, or expressly agree to these Terms of Service, on behalf of another individual or legal entity, you are considered to have represented by your behavior to GIC that you are authorized to do so. Neither you nor the person you represent will be deemed to have agreed to and be bound by these Terms of Service, and all references to \"you\" in These Terms of Service are for yourself and the people you represent, unless the context requires otherwise.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item8" : {
+                "title" : "Intellectual Property Rights",
+                "content" : "Between you and us, we own and retain all ownership rights in GIC Platforms and Services. The GIC Platform contains GIC proprietary content and information (and, if as appropriate, third parties and affiliated parties and GIC licensors) protected by copyright and other intellectual property laws. There's nothing here that can construed as granting any license or right to use the Service or GIC Platform except as expressly provided herein. Trademarks, service marks, trade names and logos used and displayed on The GIC Platform (\"Trademarks\") are registered and unregistered trademarks of GIC, affiliates, or third parties. Nothing on the GIC Platform or in the Terms of Service may be construed as granting, by implication, estoppel, or otherwise, a license or any right to use any Trademark without our written permission or other applicable trademark owners.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item9" : {
+                "title" : "Desclaimer of Warranty",
+                "content" : "Your access to and use of the GIC Platform or Services is at your own risk. Platforms GIC and all Services provided on it by GIC are provided on \"as is\" and \"as available\". GIC makes no representations or warranties of any kind, express or implied, including, without limitation, any warranties that may affect merchantability, title, fitness for a particular purpose, non-infringement, and warranties arising out of transactions or trading habits. All other guarantees relating to fitness for the purpose, quality or condition of the GIC Platform or the Services that are implied by statute or common law are excluded to the extent permitted by law. Products, services or content on the GIC Platform may come from third parties. GIC no endorses, warrants or warrants such products, services or content, and does not and will not be considered a party to any transaction between you and any third party even.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item10" : {
+                "title" : "Limitation of Liability",
+                "content" : "Without limiting the generality of the foregoing, in any event GIC or its affiliates, its employees, directors, officers or agents are not liable to you or to anyone else for direct, indirect, incidental, special, punitive or consequential damages or damages, whether arising in contract, equity, tort or otherwise (including breach of warranty, negligence and strict liability in tort). Loss or such damages include, without limitation, damages arising from delays, loss of goodwill, loss or corruption of data, interruption of use or availability of data, loss of use of money or use of products, loss of profits, income or savings (actual or anticipated), or other economic losses arising from or in connection with the GIC Platform or the Services, even if GIC or its affiliates or suppliers have been informed of the possibility of such damage. You acknowledge and agree that you will operate and rely solely on your own skills and judgment in accessing and using the GIC Platform and the Service, and that you are responsible for ensuring that your use of information, products or services as applicable. official requirements.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item11" : {
+                "title" : "Indemnity",
+                "content" : "You agree to fully indemnify and hold harmless GIC, parents, children the company, and its affiliates, and their respective directors, officers, partners, employees and agents (collectively, the \"Indemnified Parties\") from and against all claims, damages and losses (including direct, indirect or consequential losses, as well as costs and legal and other professional expenses) suffered or incurred by the Party who Indemnified in connection with claims arising out of or in connection with your use of the GIC Platform or the Services. You agree that GIC may, if you wish, participate in or take exclusive control over the defense of any claim or action or negotiate any settlement, at his own expense. GIC will tell you in one of these events. No settlement can adversely affect rights or GIC obligations must be carried out without the prior written consent of GIC, which may be detained provided that the deduction was carried out unreasonably. ",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item12" : {
+                "title" : "Connecting to The GIC Platform",
+                "content" : "You may link to the GIC Platform provided you do so in a lawful manner, no damage or exploit our reputation, or misrepresent the nature of the relationship between you and us. In particular, you may not create a link in such a way as to suggest any form of association, approval, guarantee or endorsement on our part if there is not any. You may not link to our Services on any website that is not yours. We reserve the right to withdraw linking permission without prior notice.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item13" : {
+                "title" : "Third Party Links and Sources on GIC Platform",
+                "content" : "Links on the GIC Platform may take you to external sites or services that are not owned by, under control of, or affiliated with GIC. Unless otherwise expressly stated on the GIC Platform, GIC does not endorse or make any representations regarding this site or service. You acknowledge and agree that GIC is not responsible for the accuracy or availability of information on, or the security of, the site, as well as for damages or any damage you may incur as a result of accessing such sites or services. You access, visit, or use external sites or services on which the Platform GIC is linked completely at your own risk.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item14" : {
+                "title" : "Precision",
+                "content" : "If any provision of these Terms of Service is found to be invalid, void or invalid enforceable, the provisions will be amended or read to the extent necessary to avoid these results. If the terms can't be changed or read to that extent, it will terminate without affecting the validity and enforceability of the remainder of these Terms of Service.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item15" : {
+                "title" : "Liberation",
+                "content" : "There is no failure or delay by either party to exercise any rights or efforts provided under these Terms of Service or by law that will be deemed as a waiver of that right or any other right or remedy, nor will it prevent or limit the further exercise of that or any other right. or repair. No single or partial exercise of such rights or remedies will prevent or limit the further exercise of such rights or rights or remedies other laws.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item16" : {
+                "title" : "Termination",
+                "content" : "These Terms of Service will continue in effect until terminated by you or us in any of the following circumstances.",
+                "highlight" : "In all such cases, any provision of these Terms of Service which express or implied is intended to enter into force or continue in effect on or after termination of these Terms of Service will remain in force and in force full law.",
+                "a" : "You can terminate your agreement with us at any time for any reason by deactivating your user account and discontinuing use of the Service. You don't need to tell us specifically when you stop using Service. If such deactivation and termination affects your use for third party services or products, your continued use or access to such services or products will depend on the terms of use of the third.",
+                "b" : "We may suspend or terminate your user account, or terminate allow you to access the GIC Platform or Services at any time for any reason even if we have reason to believe that: (i) you have violated these Terms of Service or (ii) you create a risk or possible exposure law for us; or (iii) the provision of our Services to you is no longer commercially possible. If any of the above happens, we will make reasonable efforts to notify you via the email address associated with your user account or when you try to access your user account again."         
+            },
+            "item17" : {
+                "title" : "Governing Law and Jurisdiction",
+                "content" : "These Terms of Service are governed by, and will be construed in accordance with, the laws of the Republic of Singapore. You agree to submit all disputes arising out of or in connection with these Terms of Service to the exclusive jurisdiction of the courts of Singapore.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            },
+            "item18" : {
+                "title" : "Language",
+                "content" : "If there is a difference between the English version and another language version of these Terms of Service and content of the GIC Platform, the English version shall prevail.",
+                "highlight" : "IF YOU DO NOT ACCEPT ANY PART OF THESE TERMS OF SERVICE, PLEASE IMMEDIATELY STOP ACCESS AND USE THE GIC PLATFORM AND ALL SERVICES."         
+            }
+        },
+        "privacy-police-page" : {
+            "header" : {
+                "title" : "Privacy Policy",
+                "content" : "Global Investa Capital (GIC) collects some Personal Data from its Users."
+            },
+            "item1" : {
+                "title" : "a). Owner and data controller",
+                "content" : "PT. Global Investa Capital – Centennial Tower Level 29, Jalan Jenderal Gatot Subroto No. 27, Karet Semanggi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, 12950 Owner contact email: support@gictrade.io"
+            },
+            "item2" : {
+                "title" : "b). Types of data collected",
+                "content" : "Among the types of Personal Data that GIC collects, by itself or through third parties, there are: Cookies; Usage Data; email address; first name; last name; phone number; address; gender; date of birth; country; ZIP/Postal code. <br/> Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection. <br/> Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using GIC. Unless specified otherwise, all Data requested by GIC is mandatory and failure to provide this Data may make it impossible for GIC to provide its services. In cases where GIC specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service. <br/> Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner. Any use of Cookies - or of other tracking tools - by GIC or by the owners of third-party services used by GIC serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available. Users are responsible for any third-party Personal Data obtained, published or shared through GIC and confirm that they have the third party's consent to provide the Data to the Owner. <br/> "
+            },
+            "item3" : {
+                "title" : "c). Mode and place of processing the data",
+                "content" : "<b>Methods of processing</b> <br /> The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data. The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of GIC (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.<br /><br /> <b>Place </b> <br /> The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located. Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data. If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section. <br /><br /> <b>Storage Time</b><br /> Data is stored for the time necessary to provide the services requested by the User, or for the purposes described in this document. Users may request the Data Controller to suspend or delete such data at any time. "
+            },
+            "item4" : {
+                "title" : "d). Penggunaan Data yang dikumpulkan",
+                "content" : "The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: Analytics, Tag Management, Interaction with live chat platforms, Remarketing and behavioral targeting, Contacting the User, Managing contacts and sending messages and Handling payments. Users can find further detailed information about such purposes of processing and about the specific Personal Data used for each purpose in the respective sections of this document. "
+            },
+            "item5" : {
+                "title" : "e). Detailed information on the processing of personal data",
+                "content" : "Personal Data is collected for the following purposes and using the following services: <br/><br/> <b>Analytics</b> <br/> The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior. <br/> <b>Google Ads conversion tracking (Google Inc.)</b><br/> Google Ads conversion tracking is an analytics service provided by Google LLC or by Google Ireland Limited, depending on the location GIC is accessed from, that connects data from the Google Ads advertising network with actions performed on GIC. Personal Data collected: Cookies; Usage Data. Place of processing: US - Privacy Policy. Privacy Shield participant. <br/><br/> <b> Google Analytics (Google Inc.) </b> <br/> Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of GIC, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network. Personal Data collected: Cookies; Usage Data. Place of processing: US - Privacy Policy - Opt Out. <br/><br/> <b>Facebook Ads conversion tracking (Facebook pixel) (Facebook, Inc.) </b> <br/> Facebook Ads conversion tracking (Facebook pixel) is an analytics service provided by Facebook, Inc. that connects data from the Facebook advertising network with actions performed on GIC. The Facebook pixel tracks conversions that can be attributed to ads on Facebook, Instagram and Audience Network. Personal Data collected: Cookies; Usage Data. Place of processing: US - Privacy Policy. Privacy Shield participant. <br/><br/> <b>Display Advertising extension for Google Analytics (Google Inc.) </b> <br/> Google Analytics on GIC might use Google's Interest-based advertising, 3rd-party audience data and information from the Doubleclick Cookie to extend analytics with demographics, interests and ads interaction data. Personal Data collected: Cookies; Usage Data. Place of processing: US - Privacy Policy - Opt Out.<br/><br/> <b>Contacting the User</b><br/> <b>Mailing List or Newsletter (GIC)</b><br/> By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning GIC. Your email address might also be added to this list as a result of signing up to GIC or after making a purchase. Personal Data collected: address; email address; first name; last name; phone number. <br/><br/> <b>Contact form (GIC) </b><br/> By filling in the contact form with their Data, the User authorizes GIC to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header. Personal Data collected: address; country; date of birth; email address; first name; gender; last name; phone number; ZIP/Postal code. <br/><br/> <b>Handling payments</b> <br/> Payment processing services enable GIC to process payments by credit card, bank transfer or other means made via any bank registered in Indonesia. To ensure greater security, GIC shares only the information necessary to execute the transaction with the financial intermediaries handling the transaction. Some of these services may also enable the sending of timed messages to the User, such as emails containing invoices or notifications concerning the payment. <br/><br/> <b>Interaction with live chat platforms </b> <br/> This type of services allows Users to interact with third party live chat platforms directly from the pages of GIC, for contacting and being contacted by GIC support service. If one of these services is installed, it may collect browsing and Usage Data in the pages where it is installed, even if the Users do not actively use the service. Moreover, live chat conversations may be logged. <br/><br/> <b>Zopim Widget (Zopim Technologies Pte Ltd) </b> </br> The Zopim Widget is a service for interacting with the Zopim live chat platform provided by Zopim Technologies Pte Ltd. Personal Data collected: Cookies; Usage Data. Place of processing: Singapore - Privacy Policy. <br/><br/> <b>Managing contacts and sending messages </b><br/> This type of service makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User. These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message. <br/><br/> <b>Mandrill (The Rocket Science Group, LLC.) </b><br/> Mandrill is an email address management and message sending service provided by The Rocket Science Group, LLC. Personal Data collected: email address; Usage Data. Place of processing: US - Privacy Policy. <br/><br/> <b>Mailchimp (The Rocket Science Group, LLC.) </b> <br/> Mailchimp is an email address management and message sending service provided by The Rocket Science Group LLC. Personal Data collected: email address Place of processing: US - Privacy Policy. Privacy Shield participant. <br/><br/> <b>Mailgun (Mailgun Technologies, Inc.) </b> <br/> Mailgun is an email address management and message sending service provided by The Mailgun Technologies, Inc. Personal Data collected: email address; Usage Data. Place of processing: US - Privacy Policy. <br/><br/> <b>Remarketing and behavioral targeting </b> <br/> This type of service allows GIC and its partners to inform, optimize and serve advertising based on past use of GIC by the User. This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioral targeting activity. In addition to any opt out offered by any of the services below, the User may opt out of a third-party service's use of cookies by visiting the Network Advertising Initiative opt-out page. <br/><br/> <b>Remarketing with Google Analytics (Google Inc.) </b> <br/> Remarketing with Google Analytics is a remarketing and behavioral targeting service provided by Google LLC or by Google Ireland Limited, depending on the location GIC is accessed from, that connects the tracking activity performed by Google Analytics and its Cookies with the Google Ads advertising network and the Doubleclick Cookie. Personal Data collected: Cookies; Usage Data. Place of processing: US - Privacy Policy - Opt Out. Privacy Shield participant. <br/><br/> <b>Facebook Remarketing (Facebook, Inc.)</b> <br/> Facebook Remarketing is a Remarketing and Behavioral Targeting service provided by Facebook, Inc. that connects the activity of GIC with the Facebook advertising network. Personal Data collected: Cookies; Usage Data. Place of processing: US - Privacy Policy - Opt Out. <br/><br/> <b>Twitter Remarketing (Twitter, Inc.) </b> <br/> Twitter Remarketing is a Remarketing and Behavioral Targeting service provided by Twitter, Inc. that connects the activity of GIC with the Twitter advertising network. Personal Data collected: Cookies; Usage Data. Place of processing: US - Privacy Policy - Opt Out. Facebook Custom Audience (Facebook, Inc.) Facebook Custom Audience is a Remarketing and Behavioral Targeting service provided by Facebook, Inc. that connects the activity of GIC with the Facebook advertising network. Personal Data collected: Cookies; email address. Place of processing: US - Privacy Policy - Opt Out. Twitter Tailored Audiences (Twitter, Inc.) Twitter Tailored Audiences is a Remarketing and Behavioral Targeting service provided by Twitter, Inc. that connects the activity of GIC with the Twitter advertising network. Personal Data collected: Cookies; email address. Place of processing: US - Privacy Policy - Opt Out. <br/><br/> <b>Google Ads Remarketing (Google Inc.) </b> <br/> Google Ads Remarketing is a remarketing and behavioral targeting service provided by Google LLC or by Google Ireland Limited, depending on the location GIC is accessed from, that connects the activity of GIC with the Google Ads advertising network and the DoubleClick Cookie. Users can opt out of Google's use of cookies for ads personalization by visiting Google's Ads Settings. Personal Data collected: Cookies; Usage Data. Place of processing: US - Privacy Policy - Opt Out. Privacy Shield participant. <br/> <b>Tag Management </b> <br/> This type of service helps the Owner to manage the tags or scripts needed on GIC in a centralized fashion. This results in the Users' Data flowing through these services, potentially resulting in the retention of this Data. <br/><br/> <b>Google Tag Manager (Google Inc.) </b> <br/> Google Tag Manager is a tag management service provided by Google LLC or by Google Ireland Limited, depending on the location GIC is accessed from. Personal Data collected: Usage Data. Place of processing: US - Privacy Policy. Privacy Shield participant."
+            },
+            "item6" : {
+                "title" : "f). Further information about personal data",
+                "content" : "<b>• Marketing Communications</b> <br/> Official GIC marketing communication channels: Client Terminal internal mail Mobile push notifications Web push notifications Instant Messenger (Viber, Telegram, Facebook Messenger, WhatsApp etc.)<br/><br/> <b>• TLS data security/encryption</b><br/> GIC uses Transport Layer Security (TLS) encryption (also known as HTTPS) for all transmitted data. All the data is sent over an encrypted TLS 1.2 connection. In no case card(s) data are saved nor stored within the infrastructure of GIC"
+            },
+            "item7" : {
+                "title" : "g). Additional information about data collection and processing",
+                "content" : "<b>Legal action</b><br/> The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of GIC or the related Services. The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.<br/><br/> <b>Additional information about User's Personal Data</b><br/> In addition to the information contained in this privacy policy, GIC may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.<br/><br/> <b>System logs and maintenance</b><br/> For operation and maintenance purposes, GIC and any third-party Services may collect files that record interaction with GIC (System logs) use other Personal Data (such as the IP Address) for this purpose. Information not contained in this policy More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.<br/><br/> <b>How “Do Not Track” requests are handled</b><br/> GIC does not support “Do Not Track” requests. To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies.<br/><br/> <b>Changes to this privacy policy</b><br/> The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within GIC and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.<br/><br/> <b>Definitions and legal references</b><br/> <b>Personal Data (or Data)</b><br/> Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.<br/><br/> <b>Usage Data</b><br/> Information collected automatically through GIC (or third-party services employed in GIC), which can include: the IP addresses or domain names of the computers utilized by the Users who use GIC, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.<br/><br/> <b>User</b><br/> The individual using GIC who, unless otherwise specified, coincides with the Data Subject.<br/><br/> <b>Data Subject</b><br/> The natural person to whom the Personal Data refers.<br/><br/> <b>Data Processor (or Data Supervisor)</b><br/> The natural or legal person, public authority, agency or another body which processes Personal Data on behalf of the Controller, as described in this privacy policy.<br/><br/> <b>Data Controller (or Owner)</b><br/> The natural or legal person, public authority, agency or another body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of GIC. The Data Controller, unless otherwise specified, is the Owner of GIC.<br/><br/> <b>GIC (or this Application)</b><br/> The means by which the Personal Data of the User is collected and processed.<br/><br/> <b>Service</b><br/> The service provided by GIC as described in the relative terms (if available) and on this site/application.<br/><br/> <b>Cookies</b><br/> Small piece of data stored in the User's device.<br/><br/> <b>Legal Information</b><br/> This privacy statement has been prepared based on provisions of multiple legislations. This privacy policy relates solely to GIC, if not stated otherwise within this document. "
+            }
+        },
+        "career" : {
+            "header" : {
+                "title" : "Career Opportunity With Us",
+                "content" : "Be a part of Global Investa Capital. We provide a career opportunity that supports you to make a real contribution. See how your expertise can make a difference in our company. Find the position you need here."
+            },
+            "vacancy" : {
+                "hightlight" : "Highlight",
+                "newest" : "Newest",
+                "see-detail" : "See Detail",
+                "apply" : "Apply Now",
+                "job-description" : "Job Description",
+                "qualification" : "Qualification",
+                "date" : "Date of Application Process",
+                "age" : "Age Limit",
+                "placement" : "Placement Location"
+            }
+        },
+        "faq" : {
+            "header" : {
+                "title" : "Frequently Ask Question"
+            },
+            "item1" : {
+                "title" : "What is GIC?",
+                "content" : "GICTrade is the world’s first Peer to Peer (P2P) Forex Trading Platform that allows investors to choose to be a Trader or a Market Maker. The GICTrade platform uses Metatrader 5 and Blockchain technology to produce safe and transparent trading for all users."
+            },
+            "item2" : {
+                "title" : "Why is GIC Started to be A New Breakthrough?",
+                "content" : "GICTrade is the first Forex trading platform that gives access to the investors to become Traders or Market Makers, in other words, investors as buyers will meet investors directly as sellers (Peer to Peer). With this concept, certainly, GICTrade becomes a platform at a very different level from common brokers: <br/><br/> <ol> <li>Fair and impartial to anyone since the Trader and the Market Maker are equal investors.</li> <li>By bringing together investors to other investors without passing through an institution or marketing broker, the trading costs on GICTrade reach the minimum rate: no commission, free swap, and low spread.</li> </ol>"
+            },
+            "item3" : {
+                "title" : "What are The Pre-eminence of GIC compared to Other Brokers?",
+                "content" : "GICTrade is a P2P Trading Platform, not a broker. GICTrade cooperates with licensed brokers and traders in Indonesia in recording and recapping investors’ trades on GICTrade. <br/> Once again, the P2P concept (investors meet investors directly) is very powerful and opens up many benefits for customers including: <br/> <ul> <li> Increase the trust of investors who trade on the GICTrade platform since GICTrade is impartial to those who are equal investors. </li> <li> GICTrade trading ecosystem that is P2P without passing through institutions gives ‘Zero Swap Charges’ advantage. </li> <li> Zero Commissions - GIC is benefited from network effects, which means no commission fees. </li> <li> Low Spread - With the P2P concept, GICTrade can provide very competitive and low spreads. </li> <li> Trading Security and Transparency - Blockchain technology strengthens technology security and also peer to peer which prioritizes transaction transparency, enables users to trade confidently. </li> </ul><br/> Besides, trading in GIC is safer, because GIC cooperates with legal brokers and traders, and has a legal license in Indonesia for recapping all transactions to the Jakarta Futures Exchange (BBJ) and the Indonesian Futures Clearing (KBI) under the BAPPEBTI supervision."
+            },
+            "item4" : {
+                "title" : "Is GIC Legal?",
+                "content" : "GIC is a legal forex trading platform founded in Singapore. GIC has received an official legal statement from the Singapore Law Firm RHTLawTaylorWessing LLP in terms of GICT tokens disbursement. Indeed, in Indonesia GIC with the Global InvestaCakrawala business entity cooperates with legal Brokers and Traders under the supervision of BBJ, KBI, and BAPPEBTI. <br/ > Registration number: Capital MegahMandiri: 733 / BAPPEBTI / SP / 6 / 2005 TrijayaPratama Futures: 407 / BAPPEBTI / SI / VII /2004."
+            },
+            "item5" : {
+                "title" : "Is My Deposit safe?",
+                "content" : "It is safe. It is because GICTrade cooperates with PT. Trijaya Pratama Futures as an official broker that reports all transactions to the Bursa Berjangka Jakarta (BBJ)/ Jakarta Futures Exchange (JFX), then all customer funds are deposited into the PT Trijaya Pratama Futures. <br /> A Segregated Account means a separate account that is watched by an Indonesian government agency."
+            },
+            "item6" : {
+                "title" : "What is Market Maker?",
+                "content" : "Market Maker is also called a Liquidity Provider (LP) or Trader company is traditionally an institution that functions as a liquidity provider and completes the transactions from traders. <br/> Let us take a look at the example below to make it more understandable:<br/><br/> Trader A makes a buy XUL (gold) transaction at the price of 1500. A transaction can occur if two parties agree to trade at that price. Therefore, trader A does a XUL transaction at the price 1500, who sell at that price? The answer is the Market Maker. <br/><br/> Therefore, it is clear that a Trader opens a buy position, then Market Maker will open a sell position. Traders and Market Makers are always in opposite positions. If the Trader profits, then Market Maker loses as well as if the Trader loses, then Market Maker profits. <br/><br/> To become a Trader company, Indonesia has several requirements as follows: <br/> - Requires expensive license <br/> - Requires a 35 billion fund deposit <br/> - Requires the expensive human resources recruitment <br/> - Requires a representative office (expensive operational costs)<br/><br/> Well, how can investors choose to become Market Maker at GICTrade and how much does it cost to become a Market Maker? <br/> With the technology available on the GICTrade platform, investors can function as Market Makers. Here’s how it works: <br/> You can assume there are 4 investors as Market Maker with the same amount of funds."
+            },
+            "item7" : {
+                "title" : "What are The Advantages of Being a Market Maker?",
+                "content" : "Let us recap what we have already known about Market Maker: <ol> <li>It needs a lot of money and permission to become a Trader/Market Maker company.</li> <li>The position is opposite to the trader. When the Traders Profit, the Market Maker Loss, and vice versa. If you choose to become a Market Maker on the GICTrade platform, what are the benefits you get?</li> </ol> <ul> <li>Market Marker is in a passive manner because Market Maker will take a position when there is a Trader opens a position (Trading passively).</li> <li> Since it is passive, the investors do not need to keep eyes on the charts, no need to allocate special moment for trading. </li> <li> To become a Market Maker investor, you only need a minimum deposit of 5,000 GICT to enjoy the functions of a merchant company without taking care of permits and spending large funds to be deposited to the government. </li> <li> Investors only need to pay a Market Maker fee of 20% of profit without paying a fee to open an office or recruit members and pay for high operational costs (If no profit, no need to pay a fee). </li> </ul>"
+            },
+            "item8" : {
+                "title" : "What are The Advantages of Being an Active Trader at GIC?",
+                "content" : "What Are The Advantages of Being An Active Trader at GIC? <br> Traders at GIC have many advantages as follows: <ol> <li>Fair P2P trading atmosphere</li> <li>Inexpensive capital starting from 2 million</li> <li>Low transaction costs, which:</li> </ol> <ul> <li>Zero Commission: GIC is benefited from network effects, which means no commission fees needed.</li> <li> Zero Swap: All trader’s positions will be directed to meet Market Makers via P2P, so swap costs can be eliminated. </li> <li> To become a Market Maker investor, you only need a minimum deposit of 5,000 GICT to enjoy the functions of a merchant company without taking care of permits and spending large funds to be deposited to the government. </li> <li> Low Spread: The Market Maker function plays an important role as an instant liquidity provider, reduces spreads, and slippage trading. Our P2P market allows the spread of 0 pip in cases. </li> </ul>"
+            },
+            "item9" : {
+                "title" : "How to make a Deposit?",
+                "content" : "The initial deposit for registering a new trading account on the exchange will use a separate account/Segregated Account of PT. Trijaya Pratama Futures 035-3119670 through BCA Bank."
+            },
+            "item10" : {
+                "title" : "How much is the minimum Deposit?",
+                "content" : "The minimum deposit for Trader is 150 GICT or worth 2 million rupiahs (following the prevailing exchange rate at Primadax). Market Maker is 5000 GICT or worth 75 million rupiahs (following the exchange rate prevailing at Primadax). per 1 GICToken Floating can be checked at Primadax."
+            },
+            "item11" : {
+                "title" : "How many minimum Lots to Trade on GIC?",
+                "content" : "For the traders at GIC, trading can be started from 0.1 lots according to the products of the Bursa Berjangka Jakarta (BBJ)/Jakarta Futures Exchange (JFX) for all Pairs available today."
+            },
+            "item12" : {
+                "title" : "What products can be Traded on GIC?",
+                "content" : "Trading items available at GIC are currencies, commodities (gold and oil), and INDEX shares (Nikkei and Hanseng) <br> And for the GICTrade products are: <ul> <li> GIC Trade: Blockchain-based Forex Trading Platform (MT5) for traders and market makers. </li> <li> GIC Token: Special Utility Token and it is only for use on the GICTrade platform. </li> <li> GIC Exchange: This exchange platform is used to buy and sell GIC tokens and also disburse fiat into Rupiah. </li> </ul>"
+            },
+            "item13" : {
+                "title" : "Does GIC provide training for beginner Traders like me?",
+                "content" : "GIC provides a demo account facility that is given to every GIC member who has registered. There is also the GIC Telegram group t.me/GICTrade. GIC also holds regular meetings to discuss how to trade."
+            },
+            "item14" : {
+                "title" : "What is GICT and why should Trading on GIC use GICT?",
+                "content" : "The GICT or GIC token is a utility token that is used to transact through the GIC platform so that investors can enjoy the features provided on the GIC platform."
+            },
+            "item15" : {
+                "title" : "How do I buy GICT?",
+                "content" : "<ol> <li>Access the Primadax Trading Platform. You can access through the user’s portal or directly from the Primadax page.</li> <li>Enter the Deposit Balance menu.</li> <li> To buy GICT, you need to have a balance at Primadax. If you already have a balance, skip this step. If you haven’t had a balance, please top up the balance in the following way: <ul> <li> Click ‘Deposit/Voucher’ in IDR or Rupiah Row. </li> <li>Transfer the amount that you wish to deposit to 035-3119670, PT. TRIJAYA PRATAMA FUTURES, BCA.</li> <li> Enter the name of the bank where you do the transfer, your Bank Account number, Deposit Amount, and Screenshot/Photo of transfer token. </li> <li> Click Deposit. </li> <li> Wait for the confirmation call. </li> </ul> </li> <li> After your balance has been deposited, go back to the previous menu, then click ‘Market’ on the GICT Row. </li> <li> There are 2 purchasing features that you can use, Limit Order and Market Order. A Limit Order is a purchase at a price that is not on the order list (selling GICT), and a Market Order is a purchase at the lowest price on the order list (selling GICT). <ul> <li> Purchase Using a Limit Order: </li> <li> Enter the Limit Order Tab. </li> <li> Write the price you want. </li> <li> Write the number of GICT that you want to buy. </li> <li> Click Next. </li> <li> Enter the Market Order Tab. </li> <li> Write down how much IDR you want to deposit as GICT. </li> <li> Click Next. </li> </ul> </li> </ol> <i>GICT purchases at the price in the order list will be charged a taker fee of 0.25%.</i>"
+            },
+            "item16" : {
+                "title" : "How do I withdraw my GICT?",
+                "content" : "<i> Make sure your GICT funds are stored in the wallet exchange and not in your trading/market maker account or portal. </i> <ol> <li> Access the Primadax Trading Platform. You can access through the user’s portal or directly from the Primadax page. </li> <li> Enter the Deposit Balance menu. </li> <li> Enter ‘Market’ on the GICT Row. </li> <li> There are 2 selling features that you can use, Limit Order and Market Order. Limit Orders are selling at prices that are not on the order list (buying GICT), and Market Orders are selling at the highest price on the order list (buying GICT). <br> Selling using a Limit Order: <ul> <li> Enter the Limit Order Tab. </li> <li> Write the price you desire. </li> <li> Write down the number of GICTs that you want to sell. </li> <li> Click Next. </li> <li> Selling using Market Orders: </li> <li> Enter the Market Order Tab. </li> <li> Write down GICTs you want to sell. </li> <li> Click Next. </li> </ul> </li> <li> After the selling is successful and IDR funds have been obtained, enter the ‘Withdraw Balance’ menu then ‘IDR’. </li> <li> Then Fill in the Bank name, the city of the Bank, Bank Account Number, and the Amount of IDR that you want to withdraw. </li> </ol> <i>GICT selling with prices in the order list will be charged a taker fee of 0.25%.</i>"
+            },
+            "item17" : {
+                "title" : "How long does my withdrawal take?",
+                "content" : "The entire withdrawal process is carried out on weekdays. How long the withdrawal process depends on when it is carried out: <br> <ul> <li>If done before 11 a.m (Jakarta Time): it will be processed on the same day.</li> <li>If done after 11 a.m (Jakarta Time): it will be processed the next day.</li> </ul> This process is carried out for BCA Bank. For other banks, it will be received by the investors a few days later according to the procedures of each bank."
+            },
+            "item18" : {
+                "title" : "How to make a deposit with Duitku Merchant?",
+                "content" : "How to deposit with Merchants Duitku on the GICTrade Portal? <ol> <li> Complete the OTP and KYC verification process. </li> <li> Choose the “duitku” deposit method. </li> <li> Select the available transfer method and enter the transfer amount, click “Apply”. </li> <li> The process will be continued according to the selected merchant. </li> <li> After the payment process at the merchant is successful, your funds have charged the balance. </li> </ol> <br><br> How to Deposit with Duitku at Primadax: <ol> <li> Select the deposit balance menu and click deposit/voucher IDR/ </li> <li> Select the ‘Duitku’ deposit option for IDR. </li> <li> Select the payment method available and write down the deposit amount for a minimum of 20,000 rupiahs, click Submit. </li> <li> The process will be continued according to the selected payment method. </li> </ol> After the payment process is successful, your funds have charged the balance."
+            },
+            "item19" : {
+                "title" : "How do I register for GIC Trade?",
+                "content" : "Here is how to register for GIC Trade. <ol> <li> Click Register. </li> <li> Fill in your personal data in accordance with the fields. </li> <li> Click the Register button. </li> <li> Check your email for activation link’ will appear then. </li> <li> Check your email for an email subject ‘GIC Trade Account Confirmation </li> <li> Click ‘Account Activation’. </li> </ol> Congratulations! You have successfully registered your data on the GICTrade website. To complete your data, you can complete your profile as soon as possible."
+            },
+            "item20" : {
+                "title" : "How do I get The Activation Email again?",
+                "content" : "To request a GIC account activation email, all you have to do is access the GICTrade login page. Write down your email and password you used when registering. Then, a message “your account has not been activated” will pop up. Please check the incoming message or click ‘here’ to resend the activation email. Please click on the word “here” and you will get your activation email in your inbox."
+            },
+            "item21" : {
+                "title" : "Why have you Installed SL or TP on the Price Screen appear to have touched the price requested, but not DONE?",
+                "content" : "It is necessary to know in advance that the SL or TP which is considered \"DONE\" must meet the following conditions: <ol> <li> Stoploss and Takeprofit levels are considered “DONE” if the Bid/Ask price on GICtrade Metatrader has touched the desired price, unless the price is categorized as “Wrong Quote” </li> <li> “Wrong Quote” or Quotation Error is: a condition where the available selling price (Bid) or the available buying price (Ask) displayed on MetaTrader 4 or 5 Client Terminal does not reflect the available selling price (Bid) or the available buying price (Ask)/ actual market conditions. <ul> <li> The price moves abnormally / wildly (up / down) and quickly from the last price and back again to the previous initial price. The price that occurs in the transaction does not match the market price at that time with reference to the price source in GICTrade. </li> <li> The SL or TP price level that is done is not always done at the posted price, due to the fast movement in the high / \"hightick\" market. </li> <li> Prices listed on Reuters, Telequote, Bridge and other Data Providers are only non-binding reference prices. Confirmation of \"done\" or \"not done\" of SL / TP is based on the Bid / Ask price in the GICTrade Meta trader. </li> </ul> </li> <li> If there is a \"Wrong Quote\" in the system, then GICTrade has the right to cancel transactions that occur with or without customer approval. </li> <li> If there is an unreasonable widening of the spread in the market, the normal spread is: 60 points for Major Rate, 120 points for Cross Rate while for Gold is 100 points. </li> </ol> "
+            },
+            "item22" : {
+                "title" : "Why can Pending Orders (LO = Limit Order and SO = Stop Order) or SL/TP disappear by themselves?",
+                "content" : "The following are things that must be considered to install LO / SO & SL / TP, namely: <ol> <li> All LO / SOs can be placed 15 minutes after market opening on Monday. GICTrade can delete LO / SO placed less than 15 minutes after market opening without further notice. </li> <li> Trading hours for forex and Gold: <ul> <li> Forex Major Rate / Cross Rate: <br> Summer : <br> Monday = 06:01 - 03:59 WIB <br> Tuesday - Thursday = 04:01 - 03:59 WIB <br> Friday = 04:01 - 03:30 WIB <br> Winter: Monday = 06:01 - 04:59 WIB <br> Tuesday - Thursday = 05:01 - 04:59 WIB <br> Friday = 05:01 - 04:30 WIB </li> <li> Gold : <br> Summer: <br> Monday = 06:01 - 03:29 WIB<br> Tuesday - Friday = 05:01 - 03:29<br> Winter: <br> Monday = 06:01 - 04:29 WIB<br> Tuesday - Friday; at = 05:01 - 04:29<br> </li> </ul> </li> <li> Installed LO / SO & SL / TP will be valid until Friday. LO / SO that have not been done and have not been canceled / canceled on Friday will be canceled by GICTrade without prior notification. </li> <li> If there is a market holiday or there is an early market closure, the LO / SO & SL / TP that have been installed and have not been done will be deleted, and LO / SO & SL / TP can be re-installed 15 minutes after opening, the market the next day. </li> <li> If there is a market holiday before the market close on Friday, and at the time of closing the market holiday, the LO / SO has not been done and has not been canceled, then the LO / SO will be automatically canceled without further notification. Customer can re-install the LO / SO on the next day. . <br> LO / SO installation can be used for new positions or liquidation. </li> </ol>"
+            }
+        }
+    }
+}

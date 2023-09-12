@@ -1,0 +1,7 @@
+.selectbox-container{
+    background-color: #fff;
+}
+.selectbox-container select{
+    width: 100%;
+    outline: none;
+}

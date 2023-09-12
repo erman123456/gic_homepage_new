@@ -1,0 +1,27 @@
+.slick-dots li button:before {
+    color: #000 !important;
+    background-color: #000 !important;
+    width: 10px !important;
+    height: 10px !important;
+    line-height: 10px !important;
+    display: block;
+    border-radius: 100% !important;
+  }
+
+  .slick-dots li.slick-active button::before {
+    color: #000 !important;
+    width: 20px !important;
+    border-radius: 100px !important;
+    opacity: 1;
+    transition: 1s;
+  }
+
+.sliderBox{
+  height: 300px;
+}
+
+@media screen and (max-width: 1000px){
+  .sliderBox{
+    height: auto;
+  }
+}

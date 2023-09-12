@@ -1,0 +1,13 @@
+.cardshadow-container{
+    width: 100%;
+    padding: 10px;
+    background-color: #F6F6F6;
+}
+
+.cardshadow-boldshadow{
+    box-shadow: 0 8px 3px rgb(188, 185, 185);
+}
+.cardshadow-smoothshadow{
+    box-shadow: 0 4px 3px rgb(233, 227, 227);
+}
+
